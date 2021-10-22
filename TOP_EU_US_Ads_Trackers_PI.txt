@@ -1,5 +1,6 @@
+#
 # Title: EU US most prevalent ads & trackers ABP format.
-# Expires: 30 days
+# Expires: 30 days 
 #
 # Version: 2021.09.26
 #
@@ -8,8 +9,7 @@
 #
 0.0.0.0 2o7.net
 0.0.0.0 247realmedia.com
-0.0.0.0 24log.com
-0.0.0.0 24log.de
+0.0.0.0 24log.*
 0.0.0.0 2leep.com
 0.0.0.0 2mdn.net
 0.0.0.0 33across.com
@@ -58,8 +58,7 @@
 0.0.0.0 ad6media.fr
 0.0.0.0 adabra.com
 0.0.0.0 adacado.com
-0.0.0.0 adaction.de
-0.0.0.0 adaction.se
+0.0.0.0 adaction.*
 0.0.0.0 adadvisor.net
 0.0.0.0 adadyn.com
 0.0.0.0 adagnit.io
@@ -69,21 +68,16 @@
 0.0.0.0 adaptretail.com
 0.0.0.0 adara.com
 0.0.0.0 adaramedia.com
-0.0.0.0 ad-balancer.at
-0.0.0.0 ad-balancer.net
+0.0.0.0 ad-balancer.*
 0.0.0.0 adbalancer.com
 0.0.0.0 adbard.net
 0.0.0.0 adblade.com
 0.0.0.0 adblockanalytics.com
-0.0.0.0 adboost.de.vu
-0.0.0.0 adboost.net
-0.0.0.0 adboost.sk
-0.0.0.0 adbooth.net
-0.0.0.0 adbot.com
+0.0.0.0 adboost.*
+0.0.0.0 adbot.*
 0.0.0.0 adboxdigital.uk
 0.0.0.0 adbrain.com
-0.0.0.0 adbutler.com
-0.0.0.0 adbutler.de
+0.0.0.0 adbutler.*
 0.0.0.0 adbuyer3.lycos.com
 0.0.0.0 adcash.com
 0.0.0.0 adcast.deviantart.com
@@ -108,8 +102,7 @@
 0.0.0.0 addtoany.com
 0.0.0.0 addvantagemedia.com
 0.0.0.0 addynamix.com
-0.0.0.0 addynamo.com
-0.0.0.0 addynamo.net
+0.0.0.0 addynamo.*
 0.0.0.0 adelement.com
 0.0.0.0 adelixir.com
 0.0.0.0 adello.com
@@ -122,40 +115,31 @@
 0.0.0.0 adf.ly
 0.0.0.0 adfactor.nl
 0.0.0.0 adforce.com
-0.0.0.0 adform.com
-0.0.0.0 adform.net
+0.0.0.0 adform.*
 0.0.0.0 adfunky.com
 0.0.0.0 adgainersolutions.com
 0.0.0.0 adgardener.com
 0.0.0.0 adgear.com
 0.0.0.0 adgibbon.com
-0.0.0.0 adglare.com
-0.0.0.0 adglare.net
+0.0.0.0 adglare.*
 0.0.0.0 adgroups.net
-0.0.0.0 adhese.be
-0.0.0.0 adhese.com
+0.0.0.0 adhese.*
 0.0.0.0 adhigh.net
 0.0.0.0 adhood.com
 0.0.0.0 adiant.com
 0.0.0.0 adify.com
 0.0.0.0 adikteev.com
-0.0.0.0 adimg.cnet.com
-0.0.0.0 adimg.com.com
-0.0.0.0 adimg.net
-0.0.0.0 adimg.chosun.com
+0.0.0.0 adimg.*
 0.0.0.0 adimgs.sapo.pt
 0.0.0.0 adimpact.com
-0.0.0.0 adinsight.com
-0.0.0.0 adinsight.eu
+0.0.0.0 adinsight.*
 0.0.0.0 adiquity.com
 0.0.0.0 adisfy.com
 0.0.0.0 adition.com
 0.0.0.0 adizio.com
 0.0.0.0 adjix.com
-0.0.0.0 adjuggler.com
-0.0.0.0 adjuggler.net
-0.0.0.0 adjust.com
-0.0.0.0 adjust.io
+0.0.0.0 adjuggler.*
+0.0.0.0 adjust.*
 0.0.0.0 adjustnetwork.com
 0.0.0.0 adk2.com
 0.0.0.0 adkernel.com
@@ -173,21 +157,18 @@
 0.0.0.0 admanager.carsoup.com
 0.0.0.0 admanmedia.com
 0.0.0.0 admantx.com
-0.0.0.0 admarketplace.com
-0.0.0.0 admarketplace.net
+0.0.0.0 admarketplace.*
 0.0.0.0 admarvel.s3.amazonaws.com
 0.0.0.0 ad-maven.com
 0.0.0.0 admaxim.com
-0.0.0.0 admedia.com
-0.0.0.0 admedia.ro
+0.0.0.0 admedia.*
 0.0.0.0 admedo.com
 0.0.0.0 admeld.com
 0.0.0.0 admeta.com
 0.0.0.0 admetrics.io
 0.0.0.0 adminder.com
 0.0.0.0 adminshop.com
-0.0.0.0 admixer.co.kr
-0.0.0.0 admixer.net
+0.0.0.0 admixer.*
 0.0.0.0 admized.com
 0.0.0.0 admob.com
 0.0.0.0 admobile.com
@@ -196,12 +177,9 @@
 0.0.0.0 admotion.com.ar
 0.0.0.0 admtpmp124.com
 0.0.0.0 adnami.io
-0.0.0.0 adnet.asahi.com
-0.0.0.0 adnet.biz
-0.0.0.0 adnet.de
-0.0.0.0 adnet.worldreviewer.com
+0.0.0.0 adnet.*
 0.0.0.0 adnetik.com
-0.0.0.0 adnetwork.net
+0.0.0.0 adnetwork.*
 0.0.0.0 adnetworkperformance.com
 0.0.0.0 adnews.maddog2000.de
 0.0.0.0 adnext.fr
@@ -221,10 +199,7 @@
 0.0.0.0 adotube.com
 0.0.0.0 adpacks.com
 0.0.0.0 adparlor.com
-0.0.0.0 adpepper.com
-0.0.0.0 adpepper.dk
-0.0.0.0 adpepper.nl
-0.0.0.0 adpepper.us
+0.0.0.0 adpepper.*
 0.0.0.0 adperium.com
 0.0.0.0 adplus.co.id
 0.0.0.0 adplxmd.com
@@ -239,8 +214,7 @@
 0.0.0.0 adrecover.com
 0.0.0.0 adremedy.com
 0.0.0.0 adretarget.me
-0.0.0.0 adrolays.com
-0.0.0.0 adrolays.de
+0.0.0.0 adrolays.*
 0.0.0.0 adroll.com
 0.0.0.0 adrotate.de
 0.0.0.0 adrule.net
@@ -258,17 +232,10 @@
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
-0.0.0.0 adservice.google.ca
-0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.de
-0.0.0.0 adservice.google.nl
+0.0.0.0 adservice.google.*
 0.0.0.0 adservingfactory.com
 0.0.0.0 adservinginternational.com
-0.0.0.0 adsfac.eu
-0.0.0.0 adsfac.info
-0.0.0.0 adsfac.net
-0.0.0.0 adsfac.sg
-0.0.0.0 adsfac.us
+0.0.0.0 adsfac.*
 0.0.0.0 adshost1.com
 0.0.0.0 adsnative.com
 0.0.0.0 ad-sniper.com
@@ -412,7 +379,7 @@
 0.0.0.0 bidtheatre.com
 0.0.0.0 bidtrk.com
 0.0.0.0 bidvertiser.com
-0.0.0.0 bi-eventtracker-*.amazonaws.com
+0.0.0.0 bi-eventtracker-*
 0.0.0.0 big7.com
 0.0.0.0 bigabid.com
 0.0.0.0 bigclicks.com
@@ -670,7 +637,7 @@
 0.0.0.0 eyewonder.com
 0.0.0.0 ezoic.net
 0.0.0.0 eztexting.com
-0.0.0.0 facebook.*,domain=~facebook.com|~messenger.com|~instagram.com|~whatsapp.com
+0.0.0.0 facebook.*
 0.0.0.0 facebookofsex.com
 0.0.0.0 facilitatedigital.com
 0.0.0.0 factual.com
@@ -794,7 +761,7 @@
 0.0.0.0 gruvi.tv
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gsi-one.org
-0.0.0.0 gstatic.com,
+0.0.0.0 gstatic.com
 0.0.0.0 gtop.ro
 0.0.0.0 gtop100.com
 0.0.0.0 gtopstats.com
@@ -1848,7 +1815,7 @@
 0.0.0.0 statistics.ro
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 stats.video.search.yahoo.com
-0.0.0.0 stats.wp.com$script,
+0.0.0.0 stats.wp.com$script
 0.0.0.0 statsie.com
 0.0.0.0 statsit.com
 0.0.0.0 step.dk
