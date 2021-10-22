@@ -232,7 +232,10 @@
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 adserverpub.com
 0.0.0.0 adserversolutions.com
-0.0.0.0 adservice.google.*
+0.0.0.0 adservice.google.ca
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.de
+0.0.0.0 adservice.google.nl
 0.0.0.0 adservingfactory.com
 0.0.0.0 adservinginternational.com
 0.0.0.0 adsfac.*
@@ -818,7 +821,9 @@
 0.0.0.0 i-clicks.net
 0.0.0.0 iconadserver.com
 0.0.0.0 icrossing.com
-0.0.0.0 id.google.*$image
+0.0.0.0 id.google.com
+0.0.0.0 id.google.de
+0.0.0.0 id.google.nl
 0.0.0.0 id5-sync.com
 0.0.0.0 idg.com
 0.0.0.0 idtargeting.com
@@ -1106,7 +1111,7 @@
 0.0.0.0 metapeople.com
 0.0.0.0 metaresolver.com
 0.0.0.0 methodcash.com
-0.0.0.0 metric.gstatic.com$image,third-party
+0.0.0.0 metric.gstatic.com
 0.0.0.0 metrica.yandex.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrixlab.com
