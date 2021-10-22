@@ -362,7 +362,9 @@
 0.0.0.0 bazaarvoice.com
 0.0.0.0 bcmediagroup.com
 0.0.0.0 beachfront.com
-0.0.0.0 beacon.*.com
+0.0.0.0 beacon.livefyre.com
+0.0.0.0 beacon.netflix.com
+0.0.0.0 beacon.walmart.com
 0.0.0.0 beaconadnetwork.com
 0.0.0.0 beanstockmedia.com
 0.0.0.0 beemray.com
@@ -660,7 +662,7 @@
 0.0.0.0 fiksu.com
 0.0.0.0 fimserve.com
 0.0.0.0 findcommerce.com
-0.0.0.0 firebase.google.*
+0.0.0.0 firebase.google.com
 0.0.0.0 firststars.*
 0.0.0.0 fizzbuzzmedia.*
 0.0.0.0 flarie.com
@@ -1264,7 +1266,10 @@
 0.0.0.0 numberly.com
 0.0.0.0 nurofy.com
 0.0.0.0 nxtck.com
-0.0.0.0 oascentral.*.com
+0.0.0.0 oascentral.businessweek.com
+0.0.0.0 oascentral.chicagobusiness.com
+0.0.0.0 oascentral.fortunecity.com
+0.0.0.0 oascentral.register.com
 0.0.0.0 octaive.com
 0.0.0.0 oewabox.at
 0.0.0.0 offerforge.com
@@ -1343,7 +1348,7 @@
 0.0.0.0 p.adpdx.com
 0.0.0.0 p.brsrvr.com
 0.0.0.0 p-advg.com
-0.0.0.0 pagead2.googlesyndication.*
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pages05.net
 0.0.0.0 pantherssl.com
 0.0.0.0 papayamobile.com
@@ -1401,7 +1406,14 @@
 0.0.0.0 piwik.org
 0.0.0.0 pixalate.com
 0.0.0.0 pixanalytics.com
-0.0.0.0 pixel.*.com
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 pixel.facebook.com
+0.0.0.0 pixel.jumptap.com
+0.0.0.0 pixel.reddit.com
+0.0.0.0 pixel.sg
+0.0.0.0 pixel.wp.com
 0.0.0.0 piximedia.com
 0.0.0.0 pixlee.com
 0.0.0.0 placed.com
