@@ -1832,7 +1832,7 @@
 0.0.0.0 statistics.ro
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 stats.video.search.yahoo.com
-0.0.0.0 stats.wp.com$script
+0.0.0.0 stats.wp.com
 0.0.0.0 statsie.com
 0.0.0.0 statsit.com
 0.0.0.0 step.dk
