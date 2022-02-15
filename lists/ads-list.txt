@@ -91725,6 +91725,7 @@ edaa.eu
 em1.yoursantander.co.uk
 email-clk.adguard.com
 email-opn.adguard.com
+email.m1.bktrksmail.com
 emebo.com
 emebo.io
 emerse.com
@@ -91774,6 +91775,7 @@ gloyah.net
 gml.email
 go.eu.sparkpostmail1.com
 go.icann.org
+go.usa.gov
 googleanalytics.com
 gothamads.com
 gotraffic.net
@@ -96295,7 +96297,6 @@ are.clevernt.com
 bus.clevernt.com
 stats.clevernt.com
 www.clevernt.com
-ak.hetaruwg.com
 www.marketgid.com
 vitals.vercel-insights.com
 appads.in
@@ -96339,7 +96340,6 @@ aarth.net
 madserve.aarth.net
 push.aarth.net
 rtb.aarth.net
-ak.hetaruvg.com
 cdn.m6r.eu
 origin-tracking.m6r.eu
 tracking.m6r.eu
@@ -96382,6 +96382,12 @@ register.appsflyersdk.com
 sdk.appsflyersdk.com
 t.appsflyersdk.com
 s3t3d2y7.ackcdn.net
+ak.hetaruvg.com
+ak.hetaruwg.com
+ak.hetartwg.com
+ak.hetapus.com
+ak.hetaint.com
+ak.hetahien.com
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -97337,6 +97343,7 @@ www.vietbuzzad.com
 www.vietdorje.com
 www.vtvcab.xyz
 vn.alexajstrack.com
+ff-menber-garena.vn
 www.facebookz.co
 www.uqoxh.icu
 www.vongquaymienphi.net
