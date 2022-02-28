@@ -97001,6 +97001,11 @@ ak.hetaint.com
 ak.hetahien.com
 geoip5m1y07.admix.in
 ssp.admix.in
+app.playstream.media
+servg.playstream.media
+servx.playstream.media
+streaming.playstream.media
+tg1.playstream.media
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -97290,6 +97295,7 @@ banner.brand.zing.vn
 campaign.brand.zing.vn
 interactive.brand.zing.vn
 stc.interactive.brand.zing.vn
+button-share.zalo.me
 240.zaloapp.ads.zdn.vn
 480.zaloapp.ads.zdn.vn
 org.zaloapp.ads.zdn.vn
@@ -98128,7 +98134,6 @@ click.expmediadirect1.com
 clickadu.com
 clickks.net
 cml.sad.ukrd.com
-consent.cmp.oath.com
 content.bitsontherun.com
 cougarads.com
 cpux.gmud.top
@@ -98224,6 +98229,7 @@ lsdstgcv.com
 lvyabgbohlv.com
 made2you.com
 magnite.com
+makespram.com
 manivalyrid.com
 marchex.io
 mars.media

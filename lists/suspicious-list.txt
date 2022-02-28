@@ -86,6 +86,7 @@ aparthema.org.pl
 aplpolska.com
 appcaptcha.com
 appfox.org
+aptbox.top
 apteka2000.pl
 aquafit.sklep.pl
 aquafit24.pl
@@ -1748,6 +1749,7 @@ www.aparthema.org.pl
 www.aplpolska.com
 www.appcaptcha.com
 www.appfox.org
+www.aptbox.top
 www.apteka2000.pl
 www.aquafit24.pl
 www.aquafit.sklep.pl
@@ -4167,8 +4169,11 @@ zgarniij_vouchher.skroc.pl
 1npost.monetaryresources.xyz
 1npost.sendinginfo.xyz
 1npost.useraccount.xyz
+1npostpl.paidproduct.xyz
+1npost-delivery.15463-info.xyz
 1npost-dostawa.dispatchgoods.xyz
 1npost-filldata.xyz
+1npost-p1.26598-dostawa.xyz
 1npost-p1.65812-paying.xyz
 1npost-pl.dostawapaying.xyz
 1npost.pl-expenses.xyz
@@ -4840,6 +4845,7 @@ allegrolokalnie.5986-deliveryservice.xyz
 allegrolokalnie.398543.pw
 allegrolokalnie.ordering-parcelinfo.xyz
 allegrolokalnii.digital
+allegromall.co
 allegropay08.info
 allegropayu.com
 allegrosmart.net
@@ -5025,6 +5031,7 @@ append.pl
 appendixleash.info
 appguruspot.online
 appieid-apple.com
+appieid-find.com
 appie.com-id-my.com
 appiq.mobi
 appi-security.com
@@ -5349,6 +5356,7 @@ bank-zaprasza.online
 bank.pl-pol.top
 bank.pl-upowaz.top
 bank.pl-urzednik.top
+bank.pl-urzednlk.top
 banskow.store
 bansmko.site
 bansore.host
@@ -5864,6 +5872,7 @@ bookbinderscogitating.xyz
 bookbugg.com
 booking-com-support-id-48392.com
 booking-eu.pay-id925856.top
+booking-object.com
 booking-pl.store
 booking-pl.com-id24310.pw
 bookmarkerspolyandries.info
@@ -6314,6 +6323,8 @@ chacopolska.com
 chainframe.online
 chainvest.agendatr.site
 chalkmutual.info
+challenge-glosowy.eu
+challenge-znajomych.eu
 champinsfx.com
 champinsly.com
 chaneynail.com
@@ -6373,6 +6384,10 @@ cht.progpat-syst.xyz
 chupacabras100kms.com
 chwalimy.bar
 chwiejnyobserwacja.site
+chwila-spokoju.eu
+chwila-spokoju.pl
+chwilka-spokoju.eu
+chwilka-spokoju.pl
 ch-plays.net
 ciagle-malo.eu
 ciarioplatense.com.ar
@@ -6716,6 +6731,7 @@ course-orlen.us
 course-program.us
 course-project.biz
 courtiersdequartier.com
+covercarforyourself.com
 covergt.com
 covid19-gov.info
 covidboxtest.com
@@ -9113,6 +9129,7 @@ dpd-hroz.id86-92.me
 dpd-info.info
 dpd-jwez.id-info004.me
 dpd-lwa.id-info229.me
+dpd-p1.5698-sendingservice.xyz
 dpd-p1.pl-usersubmissions.xyz
 dpd-pay-pl.155778.xyz
 dpd-pl.joqpwi41y2.click
@@ -9123,6 +9140,7 @@ dpd-pl-safe.495162.live
 dpd-pl-safe.id-safety.eu
 dpd-pl.44112-online.sbs
 dpd-pl.74943.pw
+dpd-pl.374845.xyz
 dpd-pl.832475.space
 dpd-pl.6743281-pieniadze-info.xyz
 dpd-pl.cena-id9572.pl
@@ -9897,11 +9915,13 @@ facebookcom-49851167.techsso.com
 facebookgroups.pl
 facebookleak.com
 facebook-account.xyz
+facebook-com-pl.pl
 facebook-com-play.pl
 facebook-filmy.pl
 facebook-l.pl
 facebook-live24.eu
 facebook-pl.pl
+facebook-pl-com.pl
 facebook-post-video.pl
 facebook-profile-post.pl
 facebook-tv-filmy.pl
@@ -10031,6 +10051,7 @@ fastcryptofxtrade.com
 fastiv.xyz
 fastmybox.org
 fastshorka.info
+fastteh.net
 fasyin.site
 faulall.pl
 fauligenz.de
@@ -10358,6 +10379,7 @@ foteczki-wyciek.eu
 fotersin.xyz
 fotki.cleverapps.io
 fotki.tefobon.com
+fotki-odnajdz.eu
 fotki-strona.eu
 fotki-wersow.mypressonline.com
 fotki-wyciek.eu
@@ -10664,6 +10686,7 @@ george-co.com
 georgina.tech
 geoxskleponlinepolska.com
 gepard.cyou
+gerawpor.site
 gerchik-onlinestudy.com
 gerdow-com.preview-domain.com
 geremino-xyz.preview-domain.com
@@ -10761,6 +10784,8 @@ glosnosiezrobilo.site
 glosowanie-like.eu
 glosowanie-udzial.eu
 glosowanie-warszawa.microhost.com.pl
+glosowe-roszady.eu
+glosowe-wybory.eu
 glosujemy-grupa.eu
 glosujemy-wszyscy.eu
 glosuj-szybko.eu
@@ -10876,11 +10901,13 @@ goucjk.com
 governorofri.com
 govmexx-govproject.info
 govpermanent.com
+govpl.one
 govpl.xyz
 govtjobopenings.com
 govvpl.xyz
 gov-pl.site
 gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com
+gov.pl-szybki.top
 gov.pl-wsparcie.eu
 gov.pl-wsparcle.eu
 gowik87.pl
@@ -10942,6 +10969,7 @@ grimace.sbs
 grinlike.site
 grlotosinvve.info
 gro.ralt.site
+gromadzimy-punkty.eu
 gromans.com.pl
 grools.xyz
 grotezka-xyz.preview-domain.com
@@ -11656,7 +11684,9 @@ informacje-polska-24.linuxpl.eu
 informacje-polskie.cyou
 informacje-powazne.eu
 informacje-publiczne.pl
+informacje-swietokrzyskie-54838926355.azureedge.net
 informacje-swietokrzyskie-68811099862.azureedge.net
+informacje-ttv.pl
 informacje-twoje.waw.pl
 informacje-twoje.xyz
 informacje-zaginieni24.eu
@@ -11758,6 +11788,7 @@ ini-uni.web.app
 injinw.web.app
 inlink.casa
 innabtys.com
+innformacje-ttv.pl
 innowacja-pl.info
 innowacyjne-glosy.eu
 innpetty.com
@@ -11788,6 +11819,7 @@ inovationprojec56t.tech
 inovationproject55.tech
 inp0st.costgoods.xyz
 inp0st-datautilization.xyz
+inp0st-pl.deliverymaking.xyz
 inpost.bond
 inpost.casa
 inpost.cc
@@ -11839,6 +11871,7 @@ inpostpl.gor1bak1pio.shop
 inpostpl.gorbakpio.com
 inpostpl.iruy5bvsx.com
 inpostpl.joqpwi41y2.click
+inpostpl.kap1sokt.com
 inpostpl.kg0rdan1.com
 inpostpl.khdjswi22.com
 inpostpl.lokawuty.click
@@ -11852,7 +11885,9 @@ inpostpl.qowitgyvx.creditcard
 inpostpl.retuaqia.com
 inpostpl.rikod8gjjm.live
 inpostpl.rote4rldr2ekal.space
+inpostpl.shapiers11.com
 inpostpl.snas512.com
+inpostpl.szybk1o.creditcard
 inpostpl.twojaofrrer9ta.pro
 inpostpl.yqpo81ncal99.cc
 inpostpl.1ast-m1nute.com
@@ -11862,11 +11897,13 @@ inpostpl.dhej-holy.xyz
 inpostpl.domoy-dost.com
 inpostpl.foiuq-iq.com
 inpostpl.fun-dusz.com
+inpostpl.gro-szyk.sbs
 inpostpl.gwart1ja-dos1t2awy.com
 inpostpl.konto24-serwis.space
 inpostpl.konto-klasyczne.sbs
 inpostpl.osos-isil.com
 inpostpl.potwierdzenie-sp44zy.com
+inpostpl.prefekt-t1me.com
 inpostpl.sending-pl.xyz
 inpostpl.towaar-opla.xyz
 inpostpl.unas-lepej.me
@@ -11962,6 +11999,7 @@ inpost-pl.95126.live
 inpost-pl.123241.site
 inpost-pl.188413.xyz
 inpost-pl.245076.xyz
+inpost-pl.374845.xyz
 inpost-pl.380085.xyz
 inpost-pl.399537.me
 inpost-pl.445091.xyz
@@ -12024,7 +12062,9 @@ inpost-polska-lqp.10394910.me
 inpost-polska-oqa.137832487.me
 inpost-polska-ote.20394929.me
 inpost-polska-qm.19284819.me
+inpost-polska-sn.424251.me
 inpost-polska-vz.2949491.me
+inpost-polska-wd.424251.me
 inpost-polska-xid.137832487.me
 inpost-polska-yt.10499402.me
 inpost-polska.325661.xyz
@@ -12086,6 +12126,7 @@ inpost.pl-paid.icu
 inpost.pl-paidcash.icu
 inpost.pl-payment.link
 inpost.pl-pays.icu
+inpost.pl-produkt3.eu
 inpost.pl-safe.shop
 inpost.pl-safeorder.live
 inpost.pl-safeway.cash
@@ -12153,6 +12194,9 @@ interia.walidacja-uzytkownika.site
 interlineal.info
 interlink-solutions.net
 internetdrogist.com
+internetowe-poszukiwania.eu
+internetowe-zmagania.eu
+internetowy-turniej.eu
 internetshoppy.com
 interpathlaboratories.com
 interrnetowenovvosci.space
@@ -12418,6 +12462,7 @@ i-films.pl
 i-filmy.pl
 i-inpost.polska24-dostawa24.shop
 i-ksiazka.pl
+i-npost.bankdetails-pl.xyz
 i-podgladacz.pl
 i.ua-passport.space
 j0wsoc.webwave.dev
@@ -12699,6 +12744,7 @@ kasynopolska.wixsite.com
 kasyno-lotek.xyz
 kaszubskidomek.pl
 katallog.pl
+katasil.link
 katastrofalnyzagiel.site
 katedra.icu
 katowice.ru
@@ -12893,6 +12939,8 @@ kokanddeiman.com
 koktebel-dim2.com
 kolejnyodcinekpolska.space
 kolekcjnoerbiznessu.space
+kolekcjoner-zwyciezcow.eu
+kolekcjonujemy-glos.eu
 kolenda.host
 koleno.store
 koloda.site
@@ -12906,6 +12954,7 @@ koman-com.preview-domain.com
 kombinacje.eu
 komendapolska.site
 komenda-polska.site
+komentarz-posty.eu
 komentarz-zobacz.eu
 komenty-polub.eu
 kommersant.kh.ua
@@ -13095,6 +13144,7 @@ kulturkurs.se
 kulturkurs.se.oblyapp.com
 kumam-bon.click
 kumucuriog.com
+kumulacja-zwyciezcow.eu
 kundzia.com.pl
 kupic.site
 kupno.sportbetsignupcode.com
@@ -13382,6 +13432,7 @@ lnpost-delivery.xyz
 lnpost-dostawa.45123.xyz
 lnpost-dostawa.65595.xyz
 lnpost-lnfome.delivery-4581.xyz
+lnpost-p1.makingdelivery.xyz
 lnpost-pl.powiadomienie.site
 lnpost-pl-45868.xyz
 lnpost-pl.4568-dostawa.xyz
@@ -13412,6 +13463,7 @@ lnstagram.pp.ru
 lnstahelp.com
 lnw-superslot.com
 ln-post-purchaser.xyz
+ln-post.dostawa-6451.xyz
 loanme.pl
 lobuzo.pl
 locator-fmi.us
@@ -13917,6 +13969,7 @@ martanggukikan.co.vu
 martanggukikan.tarungdrajatsiokalama.com
 martenspolska.co
 martenswyprzedaz.com
+martensywarszawa.com
 martgetitei0.info
 martgetituy3.info
 martgitao1.info
@@ -13937,6 +13990,7 @@ masac.xyz
 masdas0932.co.vu
 masdas0932.tarungdrajatsiokalama.com
 masino3v1ation.tech
+mask.agrodetal.site
 maskip-com.preview-domain.com
 maspusabd.co.vu
 maspusabd.tarungdrajatsiokalama.com
@@ -14339,6 +14393,7 @@ monfex.com
 mongolaspiration.edu.mn
 mongorit.uno
 monitorfx.pl
+monitoring-miejski.eu
 monitoring-obejrz.eu
 monitoring-uliczny.waw.pl
 monitor-uwazajcie.eu
@@ -14573,6 +14628,7 @@ nagrania-ttv.pl
 nagrania-z-wypadku.waw.pl
 nagranie.info
 nagranie24.ehost.pl
+nagranie-drogowe.xyz
 nagranie-energylandia.pl
 nagroda.myartsonline.com
 nagroda-sms.pl
@@ -14595,6 +14651,7 @@ najnowszymaterialletv.site
 najpierwsprawywazne.rest
 najsmieszniejsze-na-fb.eu
 najwazniejsze-info.eu
+najwiecej-like.eu
 najwiecej-polubien.eu
 najwiekszagazetapolska.online
 najwyzszy54.site
@@ -15177,6 +15234,7 @@ n-mobile.net
 o0ooo.xyz
 o1fp6o.webwave.dev
 o1x.sendingbankdata.xyz
+o1x-p1.delivery-pl-44581.xyz
 o1x.delivery-45876.xyz
 o2.carolinadunbar.com
 o2informacje.waw.pl
@@ -15549,6 +15607,7 @@ olx-pl.prawid.com
 olx-pl.retuaqia.com
 olx-pl.rote4rldr2ekal.space
 olx-pl.safeorder.co
+olx-pl.shapiers11.com
 olx-pl.snas512.com
 olx-pl.today
 olx-pl.twojaofrrer9ta.pro
@@ -15584,6 +15643,7 @@ olx-pl.72822.xyz
 olx-pl.113349.xyz
 olx-pl.188413.xyz
 olx-pl.343256.xyz
+olx-pl.374845.xyz
 olx-pl.453411.xyz
 olx-pl.534673.xyz
 olx-pl.613345.xyz
@@ -15601,6 +15661,7 @@ olx-pl.domoy-dost.com
 olx-pl.eu-pay.site
 olx-pl.ez-pays.ru
 olx-pl.foiuq-iq.com
+olx-pl.gro-szyk.sbs
 olx-pl.gwart1ja-dos1t2awy.com
 olx-pl.mpay-fs.info
 olx-pl.my-dostawa.bar
@@ -16297,6 +16358,7 @@ orl-place.web.app
 orl-pl-inv.web.app
 ornovosummer.space
 orsaybielizna.com
+ortationshop.com
 orthopt.com
 orvestinfo.fun
 orvestinfo.space
@@ -17653,6 +17715,7 @@ pointbox.org
 pointersthiabendazole.com
 pointersthiabendazole.exactitudepaginate.com
 poiska-gazeta.eu
+poiska-pay-vinted.602345.xyz
 poivesbedardemar.cf
 poi-nt.web.app
 pojadetam.pl
@@ -17810,6 +17873,7 @@ polska-btcc.website
 polska-cyberpolicja.site
 polska-dostawa.online
 polska-dostawka.club
+polska-dpd.65734.xyz
 polska-dpd.712532.xyz
 polska-dpd.order-id463987.xyz
 polska-dpd.order-id465907.xyz
@@ -18036,6 +18100,7 @@ post-sendl.space
 post-track.al-awa2el.com
 post-track.poczta-polska.al-awa2el.com
 poswiecicwalek.site
+poszukajmy-razem.eu
 poszukiwac063.rest
 poszukiwac304.rest
 poszukiwac952.rest
@@ -18060,6 +18125,7 @@ poszukiwaniaonline.you2.pl
 poszukiwania-online.net.pl
 poszukiwania-online.org.pl
 poszukiwania-osob.eu
+poszukiwania-sprawcy.eu
 poszukiwanie.info
 poszukiwanie032.rest
 poszukiwanie266.bar
@@ -18094,6 +18160,8 @@ potwierdzenie-zamowienia.name
 potwierdzenie-zamowienia.org
 potwierdzenie.wp-pl.eu
 potwierdz-wiek.ml
+potyczka-internetowa.eu
+potyczka-zwyciestwo.eu
 pouieng.com
 pouqaflagzhshis.info
 pover.in.net
@@ -18296,6 +18364,7 @@ product-pl.site
 prod-inv.web.app
 profclubix.xyz
 profibit.club
+profil-wypadki-drogowe.pl
 profionix.site
 profit4you-now.life
 profitbitcoin.net
@@ -19143,6 +19212,7 @@ royalearn.pl
 royaltrend.pl
 royal-p.web.app
 royal-trades.com
+rozasvillage.com
 rozbic-alkohol.site
 rozbij-bank.click
 rozbiterodzinyzkraju.cyou
@@ -19156,6 +19226,8 @@ rozpacz095.rest
 rozpoznaj-go.gq
 rozpoznanie521.site
 rozpuszczacsie.site
+rozrywka-komentarz.eu
+rozstrzyganie-zmagan.eu
 rozsylajmyrazem.pl
 rozsylajmy-razem.pl
 rozumiemywszystko1.xyz
@@ -20061,6 +20133,7 @@ sport-to.com
 sposob.store
 sposobprzechwalacsie.site
 sposob.bloguje-teraz8w.xyz
+spotkanie-like.eu
 spotted-gdynia-photo2711.pl
 spowodowaczadziwiajace.site
 spraszyn.home.pl
@@ -20080,6 +20153,7 @@ sprawdzto.is-best.net
 sprawdz-identyfikacje.logowaniel.co.pl
 sprawdz-identyfikacje.vernetaid.co.pl
 sprawdz-identyfikacje.netafix-pl.digital
+sprawdz-siebie.eu
 sprawdz-swoje-iq.pl
 sprawia-tak.eu
 sprawiedliwe.pl
@@ -20434,6 +20508,7 @@ swiatowe-informacje.xyz
 swiattesterow.pl
 swiatwiadomosci.xyz
 swiat-inaczej.you2.pl
+swiat-ttv.pl
 swietna-okazja.com
 swietny-organizm.com
 swieze-glosowanie.eu
@@ -20613,6 +20688,7 @@ taniec-uzalezniony.site
 taniekonta.crayon2.net
 tankujemydzis.ga
 tankujemyteraz.info
+tansgard.xyz
 tantales.com
 tantawy-group.com
 tantieapp.com
@@ -20677,8 +20753,10 @@ teleprom-xyz.preview-domain.com
 teleskopmonokularowy-pl.com
 telewizja-internetowa24.pl
 telewizja-polska.waw.pl
+telewizja-ttv.pl
 telewizory-lokalnie.pl
 telewizyjny.wywiadpopolsku.bar
+tele-monitoring.eu
 telpey.net
 telsupport-securityreturn.live
 tel.prog-capital.site
@@ -21242,6 +21320,7 @@ trolek.com.pl
 trolokas.pl
 tronte.xyz
 troorl.site
+tropiciel-ukrytych.eu
 tropienie-przestepcow.eu
 tropimy-przestepce.eu
 tropimy-przestepcow.eu
@@ -21306,7 +21385,9 @@ tsl-finansprog.tslxinv.site
 tsl-ofert.cardmr.site
 ts.syst-pltrade4.site
 ttecancun.com
+ttv-krolowezycia.pl
 ttv-nagrania.pl
+ttv-w-sieci.pl
 tubesmaza.cam
 tugdansk.xyz
 tuha-n.info
@@ -21367,6 +21448,7 @@ twoja-decyzje.eu
 twoja-konsola.click
 twoja-rodzina.eu
 twoja-sprawa.eu
+twoja-szansa.eu
 twojbon.com
 twojebony.com.pl
 twojefilmy.online
@@ -21383,6 +21465,7 @@ twoje-ogloszenie.com
 twoje-onet.waw.pl
 twoje-sprawy.eu
 twoje-swiatowe-info.pl
+twoje-wygrane.eu
 twoje-zdjecia-522.herokuapp.com
 twoje-zdjecia-613.herokuapp.com
 twoje-zdjecia-6324.herokuapp.com
@@ -21454,6 +21537,9 @@ ujecie24telerradio.website
 uk.capitalredf.site
 uk.theblogworld.xyz
 uk1.capital-prg5.site
+ukradzione-foty.eu
+ukraina-pomagam.online
+ukraina.artur-topolski.pl
 ukrmsscan.info
 ukufan.com
 uk-accounts-apple.com
@@ -21766,6 +21852,7 @@ videoplex.pl
 videostape.com
 videosy-patrz.eu
 video-mems.eu
+video-monitoring.eu
 video-ogladajmy.eu
 video-smieszne.eu
 video-spojrzmy.eu
@@ -21797,6 +21884,7 @@ vinted-obc.id98325.me
 vinted-pay-pl.325661.xyz
 vinted-pl.buyitbutpay.site
 vinted-pl.bvvkkj12z1.com
+vinted-pl.fairankoz19.com
 vinted-pl.izuy612xty.me
 vinted-pl.medaoff1.click
 vinted-pl.online
@@ -21914,6 +22002,7 @@ walczymy.eu
 walidacja-poczty.space
 walidacja-uzytkownika.space
 walka419.site
+walka-potyczka.eu
 walki-konkursowe.eu
 wallawallaguardian.com
 walloveart.com
@@ -22415,6 +22504,7 @@ wirtualnemiasto24.club
 wirtualnetargi.com.pl
 wirtualnewiadomosci3.pl
 wirtualnie-polska.xyz
+wirtualnykrakow.xyz
 wisdomsswedes.com
 wisenaturalhealing.com
 wispishpostponement.pl
@@ -22422,6 +22512,7 @@ wiszacy454.site
 witamy-naukebiznesu.online
 witamy-naukebiznesu1.online
 witchblue.com
+witchings.info
 withholdnopalitos.com
 witumart.com
 wizardly-brahmagupta-1302f2.netlify.app
@@ -22447,6 +22538,7 @@ wockwa.com
 woda-przekonywanie.site
 wodny388.site
 woja-punktowa.eu
+wojna24.azureedge.net
 wojskowefakty.azureedge.net
 wokoshop.com
 wolaklosza.is-best.net
@@ -22912,6 +23004,7 @@ www.allegrolokalnie.vip
 www.allegrolokalnie.work
 www.allegrolokalnii.digital
 www.allegrolokal.online
+www.allegromall.co
 www.allegropay08.info
 www.allegropayu.com
 www.allegrosmart.net
@@ -24269,6 +24362,7 @@ www.courseproject4.biz
 www.courseproject.biz
 www.courseproject.us
 www.courtiersdequartier.com
+www.covercarforyourself.com
 www.covergt.com
 www.covidboxtest.com
 www.covidpagos.xyz
@@ -27005,6 +27099,7 @@ www.fastcryptofxtrade.com
 www.fastiv.xyz
 www.fastmybox.org
 www.fastshorka.info
+www.fastteh.net
 www.fasyin.site
 www.faulall.pl
 www.fauligenz.de
@@ -27460,6 +27555,7 @@ www.geomancerkl.com
 www.georgina.tech
 www.geoxskleponlinepolska.com
 www.gepard.cyou
+www.gerawpor.site
 www.gesptar.online
 www.getfilesfrom.net
 www.getgamecheats.com
@@ -27608,6 +27704,7 @@ www.got.solushow.com
 www.goucjk.com
 www.governorofri.com
 www.govpermanent.com
+www.govpl.one
 www.govpl.xyz
 www.govtjobopenings.com
 www.govvpl.xyz
@@ -28275,6 +28372,7 @@ www.inpostpl.gor1bak1pio.shop
 www.inpostpl.gorbakpio.com
 www.inpostpl.iruy5bvsx.com
 www.inpostpl.joqpwi41y2.click
+www.inpostpl.kap1sokt.com
 www.inpostpl.kg0rdan1.com
 www.inpostpl.khdjswi22.com
 www.inpostpl.lokawuty.click
@@ -28288,7 +28386,9 @@ www.inpostpl.qowitgyvx.creditcard
 www.inpostpl.retuaqia.com
 www.inpostpl.rikod8gjjm.live
 www.inpostpl.rote4rldr2ekal.space
+www.inpostpl.shapiers11.com
 www.inpostpl.snas512.com
+www.inpostpl.szybk1o.creditcard
 www.inpostpl.twojaofrrer9ta.pro
 www.inpostpl.yqpo81ncal99.cc
 www.inpost.bond
@@ -28707,6 +28807,7 @@ www.kasuyte.maximizerss.xyz
 www.kasynopolska.wixsite.com
 www.kaszubskidomek.pl
 www.katallog.pl
+www.katasil.link
 www.katastrofalnyzagiel.site
 www.katedra.icu
 www.katowice.ru
@@ -29534,6 +29635,7 @@ www.martanggukikan.co.vu
 www.martanggukikan.tarungdrajatsiokalama.com
 www.martenspolska.co
 www.martenswyprzedaz.com
+www.martensywarszawa.com
 www.martgetitei0.info
 www.martgetituy3.info
 www.martgitao1.info
@@ -29553,6 +29655,7 @@ www.masac.xyz
 www.masdas0932.co.vu
 www.masdas0932.tarungdrajatsiokalama.com
 www.masino3v1ation.tech
+www.mask.agrodetal.site
 www.maspusabd.co.vu
 www.maspusabd.tarungdrajatsiokalama.com
 www.mastardo.xyz
@@ -31105,6 +31208,7 @@ www.orl.ex2landings.com
 www.orl.nlandings.com
 www.ornovosummer.space
 www.orsaybielizna.com
+www.ortationshop.com
 www.orthopt.com
 www.orvestinfo.fun
 www.orvestinfo.space
@@ -32582,6 +32686,7 @@ www.rowne373.site
 www.royalcapitalinvestment.com
 www.royalearn.pl
 www.royaltrend.pl
+www.rozasvillage.com
 www.rozbiterodzinyzkraju.cyou
 www.rozmowywtokku.site
 www.roznerowzzwiazania.club
@@ -33695,6 +33800,7 @@ www.tan428.site
 www.taniekonta.crayon2.net
 www.tankujemydzis.ga
 www.tankujemyteraz.info
+www.tansgard.xyz
 www.tantales.com
 www.tantieapp.com
 www.tanyarabourn.com
@@ -34941,11 +35047,13 @@ www.wirtualne24.eu
 www.wirtualnemiasto24.club
 www.wirtualnetargi.com.pl
 www.wirtualnewiadomosci3.pl
+www.wirtualnykrakow.xyz
 www.wisdomsswedes.com
 www.wisenaturalhealing.com
 www.wispishpostponement.pl
 www.wiszacy454.site
 www.witchblue.com
+www.witchings.info
 www.withholdnopalitos.com
 www.witumart.com
 www.wi.biz.pl
@@ -34967,6 +35075,7 @@ www.wmmurray.com
 www.wobancrorebols.ga
 www.wockwa.com
 www.wodny388.site
+www.wojna24.azureedge.net
 www.wojskowefakty.azureedge.net
 www.wokoshop.com
 www.wolgangph.xyz
@@ -35193,6 +35302,7 @@ www.xyhogyi0.com
 www.xyysyndromepedia.com
 www.xztongneng.com
 www.y84rq7enige9s5.prosoftmlm.com
+www.yaadfolt.xyz
 www.yablinasto.com
 www.yaboris.com
 www.yachtingnewstoday.com
@@ -35260,6 +35370,7 @@ www.yuminqiang.com
 www.yunosquares.com
 www.yunta.tech
 www.yuppipuppy.com
+www.yvaslor.xyz
 www.yxceermovfotgsh.su
 www.z0o.cc
 www.z8cwig.webwave.dev
@@ -35508,6 +35619,7 @@ www2.lotosus.info
 wwww-olx.pl
 www-apple-login-my.com
 www-lpkobiznes.com
+www-lpkobiznes-pl.com
 www-olxpget.work
 www-olxpldilivery.club
 www-olxpll-delivery.xyz
@@ -35540,8 +35652,11 @@ www.1mpost.net
 www.1npost.monetaryresources.xyz
 www.1npost.sendinginfo.xyz
 www.1npost.useraccount.xyz
+www.1npostpl.paidproduct.xyz
+www.1npost-delivery.15463-info.xyz
 www.1npost-dostawa.dispatchgoods.xyz
 www.1npost-filldata.xyz
+www.1npost-p1.26598-dostawa.xyz
 www.1npost-p1.65812-paying.xyz
 www.1npost-pl.dostawapaying.xyz
 www.1npost.pl-expenses.xyz
@@ -35949,6 +36064,7 @@ www.apiom-market.co
 www.apkpkobp.000webhostapp.com
 www.appecep.000webhostapp.com
 www.appieid-apple.com
+www.appieid-find.com
 www.appie.com-id-my.com
 www.appi-security.com
 www.appkonto-payment.centretvntf.co.pl
@@ -36055,6 +36171,7 @@ www.bank-zaprasza.online
 www.bank.pl-pol.top
 www.bank.pl-upowaz.top
 www.bank.pl-urzednik.top
+www.bank.pl-urzednlk.top
 www.bardzo-duzyskrot.cyou
 www.bardzo-duzyskrot1.cyou
 www.baseny-polska.com
@@ -36191,6 +36308,7 @@ www.bonus-500-zl.site
 www.bon-darmowy.pl
 www.booking-com-support-id-48392.com
 www.booking-eu.pay-id925856.top
+www.booking-object.com
 www.booking-pl.store
 www.booking-pl.com-id24310.pw
 www.boresfno-com.preview-domain.com
@@ -36317,6 +36435,8 @@ www.ce.capital-prg6.site
 www.ce.pltrade-prog3.site
 www.ce.pltrade-prog5.site
 www.cfc-text.one
+www.challenge-glosowy.eu
+www.challenge-znajomych.eu
 www.charms-tech.com
 www.check-pay.site
 www.cheese-forest.com
@@ -36326,6 +36446,10 @@ www.chociaz-sprobujmy.pl
 www.chor-moniuszko.pl
 www.chron-telefon.com
 www.cht.progpat-syst.xyz
+www.chwila-spokoju.eu
+www.chwila-spokoju.pl
+www.chwilka-spokoju.eu
+www.chwilka-spokoju.pl
 www.ch-plays.net
 www.ciagle-malo.eu
 www.ciekawe-sprawy.eu
@@ -36724,6 +36848,7 @@ www.dpd-hroz.id86-92.me
 www.dpd-info.info
 www.dpd-jwez.id-info004.me
 www.dpd-lwa.id-info229.me
+www.dpd-p1.5698-sendingservice.xyz
 www.dpd-p1.pl-usersubmissions.xyz
 www.dpd-pay-pl.155778.xyz
 www.dpd-pl.joqpwi41y2.click
@@ -36734,6 +36859,7 @@ www.dpd-pl-safe.495162.live
 www.dpd-pl-safe.id-safety.eu
 www.dpd-pl.44112-online.sbs
 www.dpd-pl.74943.pw
+www.dpd-pl.374845.xyz
 www.dpd-pl.832475.space
 www.dpd-pl.6743281-pieniadze-info.xyz
 www.dpd-pl.cena-id9572.pl
@@ -36960,11 +37086,13 @@ www.facebook24-com.cleverapps.io
 www.facebookcom-43632337.techsso.com
 www.facebookcom-49851167.techsso.com
 www.facebook-account.xyz
+www.facebook-com-pl.pl
 www.facebook-com-play.pl
 www.facebook-filmy.pl
 www.facebook-l.pl
 www.facebook-live24.eu
 www.facebook-pl.pl
+www.facebook-pl-com.pl
 www.facebook-post-video.pl
 www.facebook-profile-post.pl
 www.facebook-tv-filmy.pl
@@ -37080,6 +37208,7 @@ www.food-voucher.com
 www.forniklose-com.preview-domain.com
 www.fortonor-online.preview-domain.com
 www.foteczki-wyciek.eu
+www.fotki-odnajdz.eu
 www.fotki-strona.eu
 www.fotki-wersow.mypressonline.com
 www.fotki-wyciek.eu
@@ -37215,6 +37344,8 @@ www.glob-markets.pro
 www.glosowanie-like.eu
 www.glosowanie-udzial.eu
 www.glosowanie-warszawa.microhost.com.pl
+www.glosowe-roszady.eu
+www.glosowe-wybory.eu
 www.glosujemy-grupa.eu
 www.glosujemy-wszyscy.eu
 www.glosuj-szybko.eu
@@ -37248,6 +37379,7 @@ www.got-un.web.app
 www.govmexx-govproject.info
 www.gov-pl.site
 www.gov-pl-poczta-przychodzaca-zawieszona-html-php.weebly.com
+www.gov.pl-szybki.top
 www.gov.pl-wsparcie.eu
 www.gov.pl-wsparcle.eu
 www.gp-tsl.programm-onepl.xyz
@@ -37259,6 +37391,7 @@ www.granite-karl.com
 www.gredno-com.preview-domain.com
 www.green-home.com.pl
 www.gretnosk-com.preview-domain.com
+www.gromadzimy-punkty.eu
 www.grotezka-xyz.preview-domain.com
 www.ground-invest.website
 www.group-orlen.us
@@ -37452,7 +37585,9 @@ www.informacje-polska-24.linuxpl.eu
 www.informacje-polskie.cyou
 www.informacje-powazne.eu
 www.informacje-publiczne.pl
+www.informacje-swietokrzyskie-54838926355.azureedge.net
 www.informacje-swietokrzyskie-68811099862.azureedge.net
+www.informacje-ttv.pl
 www.informacje-twoje.waw.pl
 www.informacje-twoje.xyz
 www.informacje-zaginieni24.eu
@@ -37504,10 +37639,12 @@ www.ini-or.web.app
 www.ini-pg.web.app
 www.ini-qro.web.app
 www.ini-uni.web.app
+www.innformacje-ttv.pl
 www.innowacja-pl.info
 www.innowacyjne-glosy.eu
 www.inorter-com.preview-domain.com
 www.inp0st-datautilization.xyz
+www.inp0st-pl.deliverymaking.xyz
 www.inposta-getcash.pw
 www.inposta-info.pw
 www.inposta-order.pw
@@ -37519,11 +37656,13 @@ www.inpostpl.dhej-holy.xyz
 www.inpostpl.domoy-dost.com
 www.inpostpl.foiuq-iq.com
 www.inpostpl.fun-dusz.com
+www.inpostpl.gro-szyk.sbs
 www.inpostpl.gwart1ja-dos1t2awy.com
 www.inpostpl.konto24-serwis.space
 www.inpostpl.konto-klasyczne.sbs
 www.inpostpl.osos-isil.com
 www.inpostpl.potwierdzenie-sp44zy.com
+www.inpostpl.prefekt-t1me.com
 www.inpostpl.sending-pl.xyz
 www.inpostpl.towaar-opla.xyz
 www.inpostpl.unas-lepej.me
@@ -37619,6 +37758,7 @@ www.inpost-pl.95126.live
 www.inpost-pl.123241.site
 www.inpost-pl.188413.xyz
 www.inpost-pl.245076.xyz
+www.inpost-pl.374845.xyz
 www.inpost-pl.380085.xyz
 www.inpost-pl.399537.me
 www.inpost-pl.445091.xyz
@@ -37681,7 +37821,9 @@ www.inpost-polska-lqp.10394910.me
 www.inpost-polska-oqa.137832487.me
 www.inpost-polska-ote.20394929.me
 www.inpost-polska-qm.19284819.me
+www.inpost-polska-sn.424251.me
 www.inpost-polska-vz.2949491.me
+www.inpost-polska-wd.424251.me
 www.inpost-polska-xid.137832487.me
 www.inpost-polska-yt.10499402.me
 www.inpost-polska.325661.xyz
@@ -37743,6 +37885,7 @@ www.inpost.pl-paid.icu
 www.inpost.pl-paidcash.icu
 www.inpost.pl-payment.link
 www.inpost.pl-pays.icu
+www.inpost.pl-produkt3.eu
 www.inpost.pl-safe.shop
 www.inpost.pl-safeorder.live
 www.inpost.pl-safeway.cash
@@ -37775,6 +37918,9 @@ www.interia.kontrola-bezpieczenstwa.space
 www.interia.sprawdzanie-konta.space
 www.interia.walidacja-uzytkownika.site
 www.interlink-solutions.net
+www.internetowe-poszukiwania.eu
+www.internetowe-zmagania.eu
+www.internetowy-turniej.eu
 www.int-jj.web.app
 www.int-kg.web.app
 www.inuyasha-fan.com
@@ -37919,6 +38065,7 @@ www.i-films.pl
 www.i-filmy.pl
 www.i-inpost.polska24-dostawa24.shop
 www.i-ksiazka.pl
+www.i-npost.bankdetails-pl.xyz
 www.i-podgladacz.pl
 www.i.ua-passport.space
 www.j4ec-bitly.co
@@ -38037,10 +38184,13 @@ www.kod-polskabt.icu
 www.kod-polskabt.website
 www.kod-polskabt.work
 www.koktebel-dim2.com
+www.kolekcjoner-zwyciezcow.eu
+www.kolekcjonujemy-glos.eu
 www.kolos-invested.web.app
 www.kolo-liczyc.site
 www.koman-com.preview-domain.com
 www.komenda-polska.site
+www.komentarz-posty.eu
 www.komentarz-zobacz.eu
 www.komenty-polub.eu
 www.komornik-gov24.com
@@ -38089,6 +38239,7 @@ www.ksero-krosno.pl
 www.ksiazka-telefoniczna-online.pl
 www.kubacki-wypadek.waw.pl
 www.kumam-bon.click
+www.kumulacja-zwyciezcow.eu
 www.kupuj-oszczedzaj.click
 www.kurierowo-id07658.online
 www.kurier-dostawa.com
@@ -38143,6 +38294,7 @@ www.lnpost-delivery.xyz
 www.lnpost-dostawa.45123.xyz
 www.lnpost-dostawa.65595.xyz
 www.lnpost-lnfome.delivery-4581.xyz
+www.lnpost-p1.makingdelivery.xyz
 www.lnpost-pl.powiadomienie.site
 www.lnpost-pl-45868.xyz
 www.lnpost-pl.4568-dostawa.xyz
@@ -38171,6 +38323,7 @@ www.lnpost.sledz-paczke.site
 www.lnp-ost.sendingdatabank.xyz
 www.lnw-superslot.com
 www.ln-post-purchaser.xyz
+www.ln-post.dostawa-6451.xyz
 www.locator-fmi.us
 www.lodge-tandem.com
 www.login-microsoftonline-common.ts.r.appspot.com
@@ -38454,6 +38607,7 @@ www.moje-zamowienie23112.pl
 www.mondeo-com.preview-domain.com
 www.money-hustle.work
 www.money-wp.circle7news.com
+www.monitoring-miejski.eu
 www.monitoring-obejrz.eu
 www.monitoring-uliczny.waw.pl
 www.monitor-uwazajcie.eu
@@ -38519,6 +38673,7 @@ www.nagrania-energylandia.waw.pl
 www.nagrania-informacje24.eu
 www.nagrania-ttv.pl
 www.nagrania-z-wypadku.waw.pl
+www.nagranie-drogowe.xyz
 www.nagranie-energylandia.pl
 www.nagroda-sms.pl
 www.nagrywamy-ttv.pl
@@ -38529,6 +38684,7 @@ www.najnowsze-newsy.elk.pl
 www.najnowsze-newsy.waw.pl
 www.najsmieszniejsze-na-fb.eu
 www.najwazniejsze-info.eu
+www.najwiecej-like.eu
 www.najwiecej-polubien.eu
 www.namierz-telefon.pl
 www.nanimaly-shop.myshopify.com
@@ -38660,6 +38816,7 @@ www.n-101.com
 www.n-eats.art
 www.n-eats.site
 www.n-mobile.net
+www.o1x-p1.delivery-pl-44581.xyz
 www.o1x.delivery-45876.xyz
 www.o2-gazeta.xyz
 www.o2-gazetka.xyz
@@ -38826,6 +38983,7 @@ www.olx-pl.prawid.com
 www.olx-pl.retuaqia.com
 www.olx-pl.rote4rldr2ekal.space
 www.olx-pl.safeorder.co
+www.olx-pl.shapiers11.com
 www.olx-pl.snas512.com
 www.olx-pl.today
 www.olx-pl.twojaofrrer9ta.pro
@@ -38861,6 +39019,7 @@ www.olx-pl.72822.xyz
 www.olx-pl.113349.xyz
 www.olx-pl.188413.xyz
 www.olx-pl.343256.xyz
+www.olx-pl.374845.xyz
 www.olx-pl.453411.xyz
 www.olx-pl.534673.xyz
 www.olx-pl.613345.xyz
@@ -38878,6 +39037,7 @@ www.olx-pl.domoy-dost.com
 www.olx-pl.eu-pay.site
 www.olx-pl.ez-pays.ru
 www.olx-pl.foiuq-iq.com
+www.olx-pl.gro-szyk.sbs
 www.olx-pl.gwart1ja-dos1t2awy.com
 www.olx-pl.mpay-fs.info
 www.olx-pl.my-dostawa.bar
@@ -39845,6 +40005,7 @@ www.pogotowie-komputerowe-serwis.pl
 www.pogotowie-komputerowe-warszawa.com.pl
 www.pogotowie-ratunkowe.info
 www.poiska-gazeta.eu
+www.poiska-pay-vinted.602345.xyz
 www.poi-nt.web.app
 www.pokazac-latwo2.cyou
 www.pokazac-latwo24.cyou
@@ -39917,6 +40078,7 @@ www.polska-btcc.website
 www.polska-cyberpolicja.site
 www.polska-dostawa.online
 www.polska-dostawka.club
+www.polska-dpd.65734.xyz
 www.polska-dpd.712532.xyz
 www.polska-dpd.order-id463987.xyz
 www.polska-dpd.order-id465907.xyz
@@ -40060,10 +40222,12 @@ www.post-certificate.xyz
 www.post-sendl.space
 www.post-track.al-awa2el.com
 www.post-track.poczta-polska.al-awa2el.com
+www.poszukajmy-razem.eu
 www.poszukiwacz-sprawcy.eu
 www.poszukiwania-online.net.pl
 www.poszukiwania-online.org.pl
 www.poszukiwania-osob.eu
+www.poszukiwania-sprawcy.eu
 www.poszukiwani-ludzie-lublin-46980995160.azureedge.net
 www.poszukiwani-ludzie-lublin-47969875680.azureedge.net
 www.poszukiwani-ludzie-polsat-55600923817.azureedge.net
@@ -40085,6 +40249,8 @@ www.potwierdzenie-zamowienia.name
 www.potwierdzenie-zamowienia.org
 www.potwierdzenie.wp-pl.eu
 www.potwierdz-wiek.ml
+www.potyczka-internetowa.eu
+www.potyczka-zwyciestwo.eu
 www.po-covid19.waw.pl
 www.po-szczepieniu.pl
 www.ppl-puls.gloryft.com
@@ -40147,6 +40313,7 @@ www.producent-witaczy.pl
 www.production.outlook-office365-commicrosoftpasswordupdate-storage-tooth-d3eb.s-hiestand.workers.dev
 www.product-pl.site
 www.prod-inv.web.app
+www.profil-wypadki-drogowe.pl
 www.profit4you-now.life
 www.profitt-proga.protrobit.site
 www.profit-blogs.info
@@ -40493,6 +40660,8 @@ www.rozciagacz-plecow-pl.com
 www.rozciagacz-plecow-pl2.com
 www.rozliczenie-pradu.net
 www.rozpoznaj-go.gq
+www.rozrywka-komentarz.eu
+www.rozstrzyganie-zmagan.eu
 www.rozsylajmy-razem.pl
 www.rozumiem-to.eu
 www.rozumiem-zycie.eu
@@ -40727,6 +40896,7 @@ www.sport-bike.pl
 www.sport-nc.ir
 www.sport-to.com
 www.sposob.bloguje-teraz8w.xyz
+www.spotkanie-like.eu
 www.spotted-gdynia-photo2711.pl
 www.sprawdzam-dalej.xyz
 www.sprawdzam.is-best.net
@@ -40736,6 +40906,7 @@ www.sprawdzto.is-best.net
 www.sprawdz-identyfikacje.logowaniel.co.pl
 www.sprawdz-identyfikacje.vernetaid.co.pl
 www.sprawdz-identyfikacje.netafix-pl.digital
+www.sprawdz-siebie.eu
 www.sprawdz-swoje-iq.pl
 www.sprawia-tak.eu
 www.sprawy-kosciola.waw.pl
@@ -40808,6 +40979,7 @@ www.swgp-nation.site
 www.swiatowe-info.waw.pl
 www.swiatowe-informacje.xyz
 www.swiat-inaczej.you2.pl
+www.swiat-ttv.pl
 www.swietna-okazja.com
 www.swietny-organizm.com
 www.swieze-glosowanie.eu
@@ -40862,7 +41034,9 @@ www.teleprom-xyz.preview-domain.com
 www.teleskopmonokularowy-pl.com
 www.telewizja-internetowa24.pl
 www.telewizja-polska.waw.pl
+www.telewizja-ttv.pl
 www.telewizory-lokalnie.pl
+www.tele-monitoring.eu
 www.telsupport-securityreturn.live
 www.tel.prog-capital.site
 www.ten1pro-pl.newprog87t.site
@@ -41008,6 +41182,7 @@ www.treecutter-procutt.com
 www.treeglos-com.preview-domain.com
 www.trknsm-uaqs.one
 www.trkqsd-uqqs.one
+www.tropiciel-ukrytych.eu
 www.tropienie-przestepcow.eu
 www.tropimy-przestepce.eu
 www.tropimy-przestepcow.eu
@@ -41027,7 +41202,9 @@ www.tslx1.ptrn-official.xyz
 www.tsl-finansprog.tslxinv.site
 www.tsl-ofert.cardmr.site
 www.ts.syst-pltrade4.site
+www.ttv-krolowezycia.pl
 www.ttv-nagrania.pl
+www.ttv-w-sieci.pl
 www.tuha-n.info
 www.tunele-sklep.com
 www.turow-1project.info
@@ -41045,6 +41222,7 @@ www.twoja-decyzje.eu
 www.twoja-konsola.click
 www.twoja-rodzina.eu
 www.twoja-sprawa.eu
+www.twoja-szansa.eu
 www.twoje-fakty.online
 www.twoje-filmyvod.pl
 www.twoje-fotki.cleverapps.io
@@ -41058,6 +41236,7 @@ www.twoje-ogloszenie.com
 www.twoje-onet.waw.pl
 www.twoje-sprawy.eu
 www.twoje-swiatowe-info.pl
+www.twoje-wygrane.eu
 www.twoje-zdjecia-522.herokuapp.com
 www.twoje-zdjecia-613.herokuapp.com
 www.twoje-zdjecia-6324.herokuapp.com
@@ -41086,6 +41265,9 @@ www.uhinload-com.preview-domain.com
 www.uix-cd.firebaseapp.com
 www.uix-cd.web.app
 www.uk1.capital-prg5.site
+www.ukradzione-foty.eu
+www.ukraina-pomagam.online
+www.ukraina.artur-topolski.pl
 www.uk-accounts-apple.com
 www.uk-stv1street.live
 www.uk.capital-prg5.site
@@ -41170,6 +41352,7 @@ www.ver-twojakonto.netafixa.sbs
 www.vfy-wmail.web.app
 www.videosy-patrz.eu
 www.video-mems.eu
+www.video-monitoring.eu
 www.video-ogladajmy.eu
 www.video-smieszne.eu
 www.video-spojrzmy.eu
@@ -41185,6 +41368,7 @@ www.vinted-obc.id98325.me
 www.vinted-pay-pl.325661.xyz
 www.vinted-pl.buyitbutpay.site
 www.vinted-pl.bvvkkj12z1.com
+www.vinted-pl.fairankoz19.com
 www.vinted-pl.izuy612xty.me
 www.vinted-pl.medaoff1.click
 www.vinted-pl.online
@@ -41234,6 +41418,7 @@ www.vwtd-shrt.click
 www.wahaj-althuraya.com
 www.walidacja-poczty.space
 www.walidacja-uzytkownika.space
+www.walka-potyczka.eu
 www.walki-konkursowe.eu
 www.wall-orlen.biz
 www.warosprawdzic.is-best.net
@@ -41465,7 +41650,9 @@ www.wtorkowe-informacje.waw.pl
 www.wwv-olx.pl
 www.www1-bankmillennium-pl.com
 www.wwww-olx.pl
+www.wybieraj-like.eu
 www.wybieranie-zwyciezcy.eu
+www.wybierzmy-zwyciezce.eu
 www.wybierz-glosuj.eu
 www.wybierz-nagrode.pl
 www.wyborcza-7.cleverapps.io
@@ -41503,6 +41690,7 @@ www.wypadki-drogowe.info
 www.wypadki-drogowe.waw.pl
 www.wypatrujemy-zbira.eu
 www.wyprzedaz-polska.cyou
+www.wyscig-glosow.eu
 www.wystarczy-pocztyacpl.rest
 www.wysylka-olx.me
 www.wysylka-olx.pl
@@ -41578,10 +41766,12 @@ www.yuan-online.com
 www.z915a-upqs.us
 www.zachod-slonca.eu
 www.zadbana-ty.click
+www.zadecyduj-wygrana.eu
 www.zaginieci-ludzie.eu
 www.zaginiony-24.eu
 www.zaglosujmy-dzisiaj.eu
 www.zaglosuj-fundacja.eu
+www.zaglosuj-predko.eu
 www.zaglosuj-wspieraj.eu
 www.zahlen-bitcoin.com
 www.zajac.gy-ve.com
@@ -41614,6 +41804,8 @@ www.zastapic-mistrza.eu
 www.zator-energlanndia.waw.pl
 www.zawieszone.5p.pl
 www.zawsze-bedziemy.pl
+www.zbieramy-glosiki.eu
+www.zbieranina-glosow.eu
 www.zbiorka-joanna.com.pl
 www.zbiorka-ogloszenie.eu
 www.zd689-uwps.one
@@ -41624,6 +41816,7 @@ www.zdjecia-dysk6938.herokuapp.com
 www.zdjecia-spojrz.eu
 www.zdjecia-xyz.cleverapps.io
 www.zdjecia-zobacz.eu
+www.zdjecie-obczajaj.eu
 www.zdobyj-nagrode.com
 www.zdpd.id-9843.me
 www.zdradzic-uprawa.site
@@ -41669,7 +41862,9 @@ www.z-kraju.co.pl
 www.z-miasta.waw.pl
 wxyzservermg3.web.app
 wxyzservermg4.web.app
+wybieraj-like.eu
 wybieranie-zwyciezcy.eu
+wybierzmy-zwyciezce.eu
 wybierz-glosuj.eu
 wybierz-nagrode.pl
 wyborcza.live
@@ -41744,6 +41939,7 @@ wyrachowany389.site
 wyrazac.site
 wyroznienie.site
 wyschnietyzjednoczycsie.site
+wyscig-glosow.eu
 wystarczydziallac.website
 wystarczypamietac.cyou
 wystarczypooszukkac.online
@@ -41881,6 +42077,7 @@ x-software.live
 x-zdjecia.cleverapps.io
 y84rq7enige9s5.prosoftmlm.com
 ya.sv
+yaadfolt.xyz
 yablinasto.com
 yaboris.com
 yachtingnewstoday.com
@@ -41969,6 +42166,7 @@ yuminqiang.com
 yunosquares.com
 yunta.tech
 yuppipuppy.com
+yvaslor.xyz
 yxceermovfotgsh.su
 z0o.cc
 z8cwig.webwave.dev
@@ -41985,6 +42183,7 @@ zachecamydoczytania.online
 zachod-slonca.eu
 zadajpytaniepolska.cyou
 zadbana-ty.click
+zadecyduj-wygrana.eu
 zadnyprzygodwyblakle.site
 zaebpozno.site
 zafascynowany809.site
@@ -41995,6 +42194,7 @@ zaginieni24.eu
 zaginiony-24.eu
 zaglosujmy-dzisiaj.eu
 zaglosuj-fundacja.eu
+zaglosuj-predko.eu
 zaglosuj-wspieraj.eu
 zagwarantowacnieznajomy.site
 zahlen-bitcoin.com
@@ -42092,6 +42292,8 @@ zawsze-bedziemy.pl
 zazamosc.xyz
 zb.thebeantownsound.com
 zb5xpvwvups.click
+zbieramy-glosiki.eu
+zbieranina-glosow.eu
 zbiorka-joanna.com.pl
 zbiorka-ogloszenie.eu
 zbpfrd.powerskyslip.top
@@ -42109,6 +42311,7 @@ zdjecia-spojrz.eu
 zdjecia-xyz.cleverapps.io
 zdjecia-zobacz.eu
 zdjecie942.rest
+zdjecie-obczajaj.eu
 zdobyj-nagrode.com
 zdolny.cyou
 zdolny23.site
@@ -48918,6 +49121,7 @@ proflashdata.com
 projectpoi.com
 provenfeedback.com
 qbittorrent.com
+qevia.doubleclick.bond
 quicksaledeal.su
 reacherinst.com
 redeastbay.com
