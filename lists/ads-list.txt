@@ -94425,12 +94425,6 @@ col.mobileads.msn.com
 dub.mobileads.msn.com
 analytics.r.msn.com
 bat.r.msn.com
-global.in.ai.monitor.azure.com
-global.in.ai.privatelink.monitor.azure.com
-js.monitor.azure.com
-monitor.azure.com
-dc-int.services.visualstudio.com
-dc.services.visualstudio.com
 rcm-images.amazon.com
 rcm.amazon.com
 uedata.amazon.com
@@ -98918,6 +98912,8 @@ click.expmediadirect1.com
 viewdeos.com
 hostssl.msgapp.com
 ex.ingage.tech
+lampcfads.starbre.net
+lampservice.starbre.net
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -99822,6 +99818,9 @@ recommender.ezca.asia
 wss.ezca.asia
 gcjs.genmonet.com
 gl.genmonet.com
+bongdadem.net
+xl.plvb.xyz
+vb.plvb.xyz
 www.12signup.com
 www.adsnetonline.work
 www.adsweb.vn
@@ -99850,6 +99849,13 @@ vn-garena.vn
 www.facebookz.co
 www.vongquaymienphi.net
 su6t2a0v1cbj6fu8o2cjdo1dx0oxdm6kgl6f7zdjxt6aqxjlwrt7cu2r5g2d.me
+jscdn.greeter.me
+fakeerupriser.com
+fumarinpest.com
+go6shde9nj2itle.com
+affpa.top
+v978np.tgtest.site
+www.rimpirbtmxg.com
 0redird.com
 producerplot.com
 cdn.netcatx.com
@@ -100531,6 +100537,8 @@ zekiatagur.com
 zumobi.com
 zvetokr2hr8pcng09.com
 zxc.world
+analytics-s4.com
+histats.link
 track.rentracks.asia
 piwik.digineo.de
 tag.aticdn.net
@@ -100860,6 +100868,7 @@ js.natsdk.com
 js.wpshsdk.com
 js.wpushsdk.com
 sw.wpush.org
+7b71d01bd6.a43fba7878.com
 0490217d1b.39785fe3f1.com
 07992b9524.ad1d862ce0.com
 0f13eb71c8.74adf02407.com
