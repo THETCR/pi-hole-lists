@@ -71158,7 +71158,6 @@ insgly.net
 inslco.bar
 inspectlet.com
 install.365-stream.com
-intentsify.io
 intercom-clicks.com
 ioam.de
 ipstack.com
@@ -71593,6 +71592,7 @@ tracking.epicgames.com
 tracking.exipure.com
 tracking.hyros.com
 tracking.ibxlink.com
+tracking.intentsify.io
 tracking.jiffyworld.com
 tracking.markethero.io
 tracking.netalerts.io
@@ -71758,6 +71758,7 @@ pagead-tpc.l.google.com
 ssl-google-analytics.l.google.com
 static-doubleclick-net.l.google.com
 www-googletagmanager.l.google.com
+region1.app-measurement.com
 ads.bingads.microsoft.com
 api.bingads.microsoft.com
 m.bingads.microsoft.com
@@ -71815,6 +71816,7 @@ ir-na.amazon-adsystems.com
 rcm-na.amazon-adsystems.com
 ws.amazon-adsystems.com
 cloudfront-labs.amazonaws.com
+popadex-1919430815.us-east-1.elb.amazonaws.com
 platform.tumblr.com
 saber.srvcs.tumblr.com
 pr.comet.yahoo.com
@@ -76763,6 +76765,8 @@ cdn.wiztube.xyz
 netu.wiztube.xyz
 wiztube.xyz
 www.wiztube.xyz
+ip-info.ff.avast.com
+ipm-provider.ff.avast.com
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -78633,6 +78637,7 @@ afftrk.altex.ro
 agorahtag.tech
 agroupadx.com
 aiaisharetrace.com
+aihoasso.net
 ailalbapt.club
 aimaniape.club
 aimaptair.club
@@ -78747,6 +78752,7 @@ cdn.netcatx.com
 cdn.uponelectabuzzor.club
 cdn.wazimo.com
 cdnproviders.net
+chachophigy.pro
 chaglihysty.pro
 champagne.futurecdn.net
 channel1vids.com
@@ -78758,6 +78764,7 @@ claroadsclick.com
 cleantapioca.com
 click-clicker.com
 click.revsharecash.com
+click.tecdo-ec.com
 clickks.net
 clicktut.site
 clk.omgt3.com
@@ -78796,6 +78803,7 @@ deliver.vkcdnservice.com
 despicablereporthusband.com
 diamonddentpress.com
 diginamis.com
+dihkstwa.com
 directionforest.com
 directpaper.name
 diromalxx.com
@@ -78866,9 +78874,11 @@ go.onclasrv.com
 go.padstm.com
 goldbach.com
 goodnotification.net
+gqsufwoasgfmex.com
 grannysteer.com
 groupm.com
 grudgewallet.com
+guchihyfa.pro
 hadarone.com
 hairdosslitter.casa
 handlingfaster.com
@@ -78886,6 +78896,7 @@ hostingstrong.com
 hostnetadv.site
 hqvwniado.com
 humidmentioned.com
+hvxqkunspvtln.com
 hw.zuimeitianqi.com
 hybrid.ai
 hypermusk.com
@@ -78928,9 +78939,11 @@ ketchapp.org
 kiolim.com
 kjbyjgorbmicle.com
 kolobif.com
+ksznidltg.com
 kupona.de
 kurlichan.com
 ladsreds.com
+laughedaffront.com
 leaurned-fundonals.com
 lecap-services.fr
 leiki.com
@@ -78987,6 +79000,7 @@ nuclearads.com
 nyalacornily.cam
 nzurlmq.com
 o0bc.com
+obituaryfuneral.com
 offclaydolon.com
 oktogar.com
 omazeiros.com
@@ -79011,6 +79025,7 @@ pcmclk.com
 pcteast.com
 performanceleading.com
 permutive.app
+perryvolleyball.com
 personaly.click
 pesoaniz.com
 phobygipi.pro
@@ -79029,6 +79044,7 @@ player.kmpmedia.net
 playmobileads.com
 pocitadlo.cz
 popcain.com
+pornve.sexyadsrun.com
 potentionsdarket.site
 practisecolander.com
 presbanise.pw
@@ -79064,7 +79080,9 @@ r.leadzu.com
 r.trwl1.com
 rampanel.com
 rapleaf.com
+rdgtvgmtauro.com
 rdr.wargaming.net
+reasonablelandmark.com
 record.affiliates.karjalakasino.com
 redri.net
 relogotd.com
@@ -79113,6 +79131,7 @@ smartmad.com
 sojern.com
 spa.chiji8.info
 specificationheadless.com
+speechfountaindigestion.com
 speersferny.com
 squarebirdie.com
 srv.trafficgate.net
@@ -79176,6 +79195,7 @@ tutelatechnologies.com
 tzegilo.com
 uebadu.com
 ueikno.com
+uejwqbgtjxdw.com
 uge521.com
 uitopadxdy.com
 ukslphcgs.com
@@ -79191,6 +79211,7 @@ uselnk.com
 useriq.com
 utimg.ru
 uyunad.com
+v6rxv5coo5.com
 v978np.tgtest.site
 valegaj.com
 valuedopinions.co.uk
@@ -79212,6 +79233,7 @@ vkcdn.online
 vlogoflife.com
 voradu.com
 vugnubier.com
+vuwmxjusucnh.com
 waeshana.com
 washedrunaway.com
 wasplighthouse.com
@@ -79382,6 +79404,8 @@ zenaps.com
 zeroethgipsy.com
 zeustechnology.com
 zoosnet.net
+zorprhbnwbezie.com
+zrljkhcwhxhh.com
 zvetokr2hr8pcng09.com
 zxc.world
 a.apkpure.com
