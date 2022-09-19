@@ -78205,7 +78205,6 @@ swa.and.co.uk
 t.9gag.com
 t.dailymail.co.uk
 t.freelancer.com
-tag.aticdn.net
 tagger.ope.scmp.com
 tagmanager.alright.network
 tags.newscgp.com
