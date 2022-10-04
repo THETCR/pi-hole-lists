@@ -70113,6 +70113,7 @@ analytics.justuno.com
 analytics.mobile.yandex.net
 analytics.ostr.io
 analytics.pointdrive.linkedin.com
+analytics.santander.co.uk
 analytics.xelondigital.com
 analyticsapi.happypancake.net
 analytik.xyz
@@ -70395,6 +70396,7 @@ gfcim5.gq
 glisteningsign.com
 gloyah.net
 gml.email
+go.dhs.gov
 go.eu.sparkpostmail1.com
 go.icann.org
 go.usa.gov
@@ -70679,6 +70681,7 @@ props.id
 prosper.on-line-casino.ca
 protectcrev.com
 protectsubrev.com
+protestcopy.com
 provenpixel.com
 pstmrk.it
 psychedelicchess.com
@@ -78524,6 +78527,7 @@ umiyyusldc.com
 unclesnewspaper.com
 unthem.com
 upgastlyr.com
+upspinarakor.com
 uptrendsdata.com
 us.claroadsxml.com
 useast.quantumdex.io
@@ -79117,6 +79121,7 @@ zz.bdstatic.com
 76236osm1.ru
 abutparker.com
 cdn.cluodlfare.com
+checkaccff.com
 comptrffc.com
 cpa-tc.com
 easywbdesign.com
@@ -79129,6 +79134,7 @@ miniast.com
 mobilereport.agency
 mysp.ac
 org-secured.com
+sc0mvn.com
 screenshielded.com
 share-apple.com
 tc-clicks.com
