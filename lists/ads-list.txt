@@ -71165,6 +71165,7 @@ b.gemini.yahoo.com
 n.gemini.yahoo.com
 ssp.gemini.yahoo.com
 real.pclick.yahoo.com
+c2shb.ssp.yahoo.com
 ads-verify.yap.yahoo.com
 us.ads.yap.yahoo.com
 b90.yahoo.co.jp
@@ -76122,6 +76123,16 @@ s6.yovoads.com
 yovoads.com
 connect.idocdn.com
 tracker.idocdn.com
+img.scupio.com
+pixel-api.scupio.com
+prebid.scupio.com
+rec.scupio.com
+scupio.com
+www.scupio.com
+api.applovefrom.com
+logger.applovefrom.com
+2performant.com
+event.2performant.com
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -77524,6 +77535,7 @@ analytics.aita.gov.vn
 analytics.bachtuongphat.com
 analytics.bluemotionmedia.vn
 analytics.diamondstarfinancial.com.vn
+analytics.evgcdn.net
 analytics.fsoft.com.vn
 analytics.hub-js.com
 analytics.jamstackvietnam.com
@@ -77918,6 +77930,7 @@ ads.opus-static.net
 ads.projectagoraservices.com
 ads.reddit.com
 ads.sibernetworks.com
+ads.sunmaker.com
 ads04.tapsense.com
 ads1.opensubtitles.org
 ads3.bangkokpost.co.th
@@ -78141,6 +78154,7 @@ disrespectpreceding.com
 divorceseed.com
 dmp.starbolt.io
 dn0qt3r0xannq.cloudfront.net
+doerscharre.com
 doublepimpads.com
 driftstupidityopponent.com
 dtxngr.com
@@ -78831,7 +78845,6 @@ dynatrace.com
 e.viously.com
 e2.platform88798.com
 ethtrader.de
-event.2performant.com
 event.condenastdigital.com
 event.stat.wedobest.com.cn
 event.wedobest.com.cn
