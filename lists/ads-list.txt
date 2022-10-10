@@ -7600,7 +7600,6 @@ fuzzyflavor.com
 fuzzyweather.com
 ga87z2o.com
 gammamaximum.com
-getadmiral.com
 giddycoat.com
 giftedglue.com
 giftedthumb.com
@@ -18003,6 +18002,7 @@ germanwingsde.widget.criteo.com
 germany20.112.2o7.net
 gesundpedia.de.intellitxt.com
 get.addthis.com
+getadmiral.com
 getadmiral.typeform.com
 get.appsflyer.com
 get.apptimize.com
