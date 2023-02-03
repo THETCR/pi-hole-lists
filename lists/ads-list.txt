@@ -70354,6 +70354,7 @@ click.hookupinyourcity.com
 click.hooligapps.com
 click.i.southwesternrailway.com
 click.infoblox.com
+click.mail.hotels.com
 click.mkt.grab.com
 click.news.vans.com
 click.nl.npr.org
@@ -76623,6 +76624,8 @@ tracking.banner.g6.zing.vn
 tracking.playzing.g6.zing.vn
 tracking.tv.zing.vn
 zlog.mp3.zing.vn
+zads.me.zing.vn
+zt.me.zing.vn
 zt1.me.zing.vn
 adtima.brand.zing.vn
 adtimabox.brand.zing.vn
@@ -78595,6 +78598,7 @@ outrageousmeet.pro
 ovhafjbup.com
 ovlliiwtxgjlz.com
 oxiqyxos.com
+oxmkhuotcz.com
 oygohusvggaurod.xyz
 p.tanx.com
 p4r24.eu
