@@ -73168,6 +73168,7 @@ www.epom.com
 aj1010.online
 aj1015.online
 aj1047.online
+aj1058.online
 aj1354.online
 aj1408.online
 aj1431.online
@@ -75463,9 +75464,9 @@ static.ad4mat.net
 www.ad4mat.net
 video.innovid.com
 x.innovid.com
-51.la
+collect-v6.51.la
 ia.51.la
-www.51.la
+sdk.51.la
 api.aqua-adserver.com
 aqua-adserver.com
 servedby.aqua-adserver.com
@@ -76417,6 +76418,10 @@ event-action.popinfo.jp
 events.popinfo.jp
 bestfreecounterstat.com
 counter9.bestfreecounterstat.com
+d.pssy.xyz
+r.pssy.xyz
+s.pssy.xyz
+www.pssy.xyz
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -76756,16 +76761,16 @@ log.zingnews.com.vn
 za.zingnews.com.vn
 ads.platform.zalo.me
 ads.zalo.me
-api.widget.zalo.me
 button-call.zalo.me
 button-follow.zalo.me
 button-share.zalo.me
 groupstats.event.zalo.me
-page.widget.zalo.me
 px.za.zalo.me
 sentry-mini.zalo.me
 stats.hc.score.dmp.zalo.me
 widget.chat.zalo.me
+api.widget.zalo.me
+page.widget.zalo.me
 ads.zaloapp.com
 centralized.zaloapp.com
 photo-ads.zaloapp.com
@@ -78161,6 +78166,7 @@ adserver-e7.com
 adserver.mgsex.com
 adshark.site
 adshost2.com
+adshostnet.com
 adsloading.com
 adslop.com
 adsmetadata.mobileadexchange.net
@@ -78297,6 +78303,7 @@ bkvhlsndw.com
 bluadz.com
 bodyclick.net
 bohonef.com
+bonepa.com
 bonnilytooths.com
 boo-box.com
 boolevool.com
@@ -78557,6 +78564,7 @@ intellilinks.com
 intendedeasiestlost.com
 internalads.gammae.com
 invol.co
+iogjhbnoypg.com
 ionnmjdsf.com
 ipp2s.xyz
 ipromote.com
@@ -78684,6 +78692,7 @@ offclaydolon.com
 offergate-apps-publicity.com
 ofnumeltor.com
 ofsyuxaveckulgf.com
+ojjzpitr.com
 ojqbnqdwycws.com
 oktogar.com
 omjitjlhx.com
@@ -78809,6 +78818,7 @@ rollserver.xyz
 roolgage.com
 roomegar.com
 rosiedaulos.com
+rosymap.pro
 rot.spotsniper.ru
 rtb.gamoshi.io
 rtb.trade
@@ -78894,6 +78904,7 @@ thongedoptions.com
 toawaups.net
 top-advertise.com
 top.c-stat.eu
+toroadvertisingmedia.com
 trac.mediaiqdigital.com
 tracking.ucreate.live
 trafficads.net
