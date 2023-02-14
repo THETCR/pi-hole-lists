@@ -70607,10 +70607,12 @@ affiliates.rozetka.com.ua
 afftracking.justanswer.com
 alchemist.go2cloud.org
 algorix.co
+aliasanvil.com
 aloofvest.com
 americash.com
 ampleclick.com
 analytics.algoepico.net
+analytics.dashboard.fingerprint.com
 analytics.dnsfilter.com
 analytics.emarketer.com
 analytics.ext.go-tellm.com
@@ -70664,6 +70666,7 @@ beachfront.com
 beacon.gu-web.net
 bebi.com
 behavioralengine.com
+benefits.sovendus.com
 benfly.net
 bidtellect.com
 big-bang-ads.com
@@ -71267,6 +71270,7 @@ serpentshampoo.com
 servads.net
 sessioncam.com
 shakegoldfish.com
+shiveringspot.com
 shrillspoon.com
 signalayer.com
 simpleanalytics.io
