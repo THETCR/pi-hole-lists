@@ -72792,7 +72792,6 @@ placeframe.com
 plausibleio.workers.dev
 pltraffic8.com
 pluckypocket.com
-pluckytaste.com
 pointlesshour.com
 pointlessprofit.com
 pokkt.com
@@ -73068,6 +73067,7 @@ tracking.orixa-media.com
 tracking.pastapplauddeterseminarproof.makeup
 tracking.playerobjectwordingbasinbank.makeup
 tracking.shopstyle.com
+tracking.theoceanac.online
 tracking.thinkabt.com
 tracking.vagueunlikecowerscreamforbid.hair
 tracking.wetter.at
@@ -73777,9 +73777,8 @@ operate-sdk-telemetry.unity3d.com
 analytics.unity3d.com
 collect.analytics.unity3d.com
 www.analytics.unity3d.com
-analytics.uca.cloud.unity3d.com
 analytics.cloud.unity3d.com
-api.uca.cloud.unity3d.com
+analytics.uca.cloud.unity3d.com
 admediator.unityads.unity3d.com
 ads-game-configuration.unityads.unity3d.com
 ads-sdk-configuration-gcp.unityads.unity3d.com
@@ -73791,8 +73790,6 @@ china-cdn.unityads.unity3d.com
 configv2-prd.unityads.unity3d.com
 ingress.unityads.unity3d.com
 staging.unityads.unity3d.com
-prd-lender.cdp.internal.unity3d.com
-stg-lender.cdp.internal.unity3d.com
 mediation-tracking.prd.mz.internal.unity3d.com
 sdk-diagnostics.prd.mz.internal.unity3d.com
 sdk-diagnostics.stg.mz.internal.unity3d.com
@@ -77412,6 +77409,7 @@ ak-is.net
 rtb-xs.ak-is.net
 www.ak-is.net
 xml.ak-is.net
+acertb.xml.ak-is2.net
 ad-maven.xml-eu.ak-is2.net
 ad-maven.xml.ak-is2.net
 ad-maven.xs.ak-is2.net
@@ -78407,6 +78405,8 @@ js-ad.a.yximgs.com
 tx-ad.a.yximgs.com
 wlpinnacle.adsrv.eacdn.com
 wlsbotop.adsrv.eacdn.com
+a.adforcast.com
+q.xmlrtb.com
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -80575,6 +80575,7 @@ groupm.com
 hacbfyvvsw.com
 hadarone.com
 hairdosslitter.casa
+handkerchiefpersonnel.com
 handlingfaster.com
 hdatssfpxrwbxs.com
 healthyoffers.com
@@ -80833,6 +80834,7 @@ qbxaebqkg.com
 qdfxeqhnjuknyy.com
 qgicqtyh.com
 qlcdnvkgi.com
+qmxgkgykaex.com
 qohxtklfmy.com
 qp.ezfxpuo.cn
 qstukqmsddqgs.com
@@ -81192,6 +81194,7 @@ zekiatagur.com
 zenaps.com
 zeofnuvzsh.com
 zeustechnology.com
+zimpolo.com
 zlbdvgjlxm.com
 zoosnet.net
 zorprhbnwbezie.com
