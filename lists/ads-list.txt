@@ -72251,7 +72251,6 @@ ad.allboxing.ru
 ad.exyws.org
 ad.jacotei.com.br
 ad.mg
-ad.mobstazinc.cn
 ad.myapple.pl
 ad.mynetreklam.com.streamprovider.net
 ad.reachlocal.com
@@ -72293,7 +72292,6 @@ admeridianads.com
 admidadsp.com
 admix.in
 adn.lrb.co.uk
-adpenguin.biz
 adprofits.ru
 adpushup.com
 adreclaim.com
@@ -72824,7 +72822,6 @@ hf5rbejvpwds.com
 hilariouscap.com
 hitcounters.miarroba.com
 hits-i.iubenda.com
-hlok.qertewrt.com
 hollowafterthought.com
 homelycrown.com
 homelysleep.com
@@ -73356,6 +73353,7 @@ traffic-redirecting.com
 traffic.focuusing.com
 trafficforce.com
 trafficrouter.io
+traildelsfars.com
 traytouch.com
 trck.a8.net
 trcklion.com
@@ -73603,10 +73601,14 @@ yads.yahoo.co.jp
 yads.yjtag.yahoo.co.jp
 ybx.yahoo.co.jp
 yeas.yahoo.co.jp
+pzd.rakuten.co.jp
+s-ad.rmp.rakuten.co.jp
+s-evt.rmp.rakuten.co.jp
 affiliate.rakuten.co.jp
 static.affiliate.rakuten.co.jp
 xml.affiliate.rakuten.co.jp
 rat.rakuten.co.jp
+secure.rat.rakuten.co.jp
 ads.facebook.com
 o.update.fbsbx.com
 p.update.fbsbx.com
@@ -77702,6 +77704,7 @@ adop.xml-eu.ak-is2.net
 adop.xs.ak-is2.net
 adoptim.fs.ak-is2.net
 adright.xml-eu.ak-is2.net
+adright.xml-v6.ak-is2.net
 adscompute.xml.ak-is2.net
 adventurefeeds.xml-eu.ak-is2.net
 adventurefeeds.xml-v6.ak-is2.net
@@ -78670,6 +78673,7 @@ ads.livetv632.me
 ads.livetv633.me
 ads.livetv636.me
 ads.livetv637.me
+ads.livetv638.me
 api-staging.company-target.com
 media.company-target.com
 s.company-target.com
@@ -78698,6 +78702,12 @@ a.sportradarserving.com
 lr-in-prod.com
 cdn.lr-in-prod.com
 r.lr-in-prod.com
+apiv2.popupsmart.com
+cdn.popupsmart.com
+popup.popupsmart.com
+gotrackier.com
+masteraffiliates.gotrackier.com
+optimidea.gotrackier.com
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -80454,6 +80464,7 @@ admedia.network
 admtpmp127.com
 adn.ebay.com
 adnami.io
+adpenguin.biz
 adplexity.com
 adpost.org
 adprotected.com
@@ -80805,6 +80816,7 @@ downloadr.xyz
 droopingmore.com
 dsucjlwjypo.com
 dtxngr.com
+dvmludkami.com
 easiesttangle.com
 easy-ads.com
 easydownloadnow.com
@@ -80904,6 +80916,7 @@ groovinads.com
 groupm.com
 gwawl-oqs.com
 hacbfyvvsw.com
+hadabqhbewcrt.com
 hadarone.com
 hairdosslitter.casa
 handlingfaster.com
@@ -81193,6 +81206,7 @@ qa-ads.nobid.com
 qbxaebqkg.com
 qdfxeqhnjuknyy.com
 qgicqtyh.com
+qjwglnuwqvr.com
 qlcdnvkgi.com
 qohxtklfmy.com
 qp.ezfxpuo.cn
@@ -81228,6 +81242,7 @@ reson8.com
 retargetly.com
 returnsflyswat.com
 revengemeantjackpot.com
+revmasters.com
 richaudience.com
 ridyljevhotvsf.com
 rigelink.com
@@ -81409,6 +81424,7 @@ wearemiq.com
 webads.eu
 webeyemob.com
 weboohost.com
+webpartners.co
 webproducts.click
 webpushdirect.biz
 welcomeneat.pro
@@ -81507,6 +81523,7 @@ www.pressingmiscellaneoustry.com
 www.pro-ads.club
 www.propu.sh
 www.push-notifications.top
+www.qksrv.net
 www.routeserve.info
 www.servsave.com
 www.shndrktrk.com
