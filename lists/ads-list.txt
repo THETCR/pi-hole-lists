@@ -73603,6 +73603,7 @@ ads-backend.chaincliq.com
 ads-bilek.com
 ads-dev.pinterest.com
 ads-game-187f4.firebaseapp.com
+ads-kesselhaus.com
 ads.365.mk
 ads.5min.at
 ads.73dpi.com
@@ -73624,7 +73625,6 @@ ads.citymagazine.si
 ads.clasificadox.com
 ads.comeon.com
 ads.dailycamera.com
-ads.delfin.bg
 ads.devmates.com
 ads.doit.com.cn
 ads.dtpnetwork.biz
@@ -73880,7 +73880,6 @@ cashstaging.me
 causecherry.com
 cdn.bannerflow.com
 cdn.freshmarketer.com
-cdn.panelbear.com
 cedato.com
 centerpointmedia.com
 chargecracker.com
@@ -74229,7 +74228,6 @@ m.trb.com
 m6r.eu
 mackeeperapp.mackeeper.com
 madinad.com
-magicadz.co
 magicaljoin.com
 magicalmonth.com
 maltiverse.lt.acemlnc.com
@@ -82047,6 +82045,7 @@ awigglespouter.cam
 awsharproofed.com
 axiabanners.exodus.gr
 ayrtpmwuymzbbq.com
+ayvfzwttm.com
 balor-ghn.com
 banner.abbyy.com
 banner.bw88.io
@@ -82361,6 +82360,7 @@ gpttuucg.com
 gqsufwoasgfmex.com
 gronw-zis.com
 groovinads.com
+groumaux.net
 groupm.com
 gwawl-oqs.com
 gyppedsquiss.com
@@ -82538,6 +82538,7 @@ mulleysnutmeg.com
 multilinkhost.com
 mumsimso.net
 mvdwjofacq.com
+mvlvxzhxjci.com
 myad.mitrade.com
 myadsystem.com
 myaffiliates.com
@@ -82645,6 +82646,7 @@ play.leadzu.com
 player.kmpmedia.net
 playmobileads.com
 playwrightglancing.com
+plosaztduojwbe.com
 plumbummoca.com
 pocitadlo.cz
 podsklzegshmnd.com
@@ -82739,6 +82741,7 @@ rtb.trade
 rtqkaxnpnfqwim.com
 runreferences.com
 rvkthygqhe.com
+rweqklxctunjy.com
 rwturquxinm.com
 rxpsaofevrikmi.com
 sadflannel.com
@@ -82870,6 +82873,7 @@ unclesnewspaper.com
 unthem.com
 untruerbelili.com
 unugilpcyxoep.com
+unylgxxmrsbb.com
 uoobmvrjyjomnle.com
 upgastlyr.com
 uptrendsdata.com
