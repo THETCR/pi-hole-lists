@@ -79105,6 +79105,7 @@ danarimedia.xml.ak-is2.net
 explorads.xml.ak-is2.net
 expmediadirect1.xml-eu.ak-is2.net
 ezmob.fs.ak-is2.net
+flairadscpc.xml-eu.ak-is2.net
 kinesis-doo.fs.ak-is2.net
 kinesis-doo.xs.ak-is2.net
 leoyard.fs.ak-is2.net
@@ -80071,6 +80072,7 @@ ads.livetv640.me
 ads.livetv643.me
 ads.livetv644.me
 ads.livetv655.me
+ads.livetv658.me
 api-staging.company-target.com
 media.company-target.com
 s.company-target.com
@@ -81380,6 +81382,7 @@ adserver.lag.vn
 adserver.muaban.net
 adserver.trangphim.net
 adsgo.nhipcaudautu.vn
+adsphim.lol
 adsplus.vn
 adsv2.autodaily.vn
 adsweb.vn
@@ -82136,6 +82139,7 @@ cd-ads.com
 cdilwuhbgy.com
 cdn.bncloudfl.com
 cdn.easyads28.mobi
+cdn.exmarketplace.com
 cdn.freefarcy.com
 cdn.itskiddoan.club
 cdn.mmctsvc.com
@@ -82294,6 +82298,7 @@ fdrgtt9edmej010.com
 feboni.info
 feedyourheadmag.com
 ferulaecharger.com
+fezacoox.net
 fiercedental.com
 figgynudest.com
 find-my-great-life.com
@@ -82535,6 +82540,7 @@ mpio.io
 mpnoqwbkz.com
 mscoldness.com
 mtttvrit.com
+mufsresuwoxg.com
 mulleysnutmeg.com
 multilinkhost.com
 mumsimso.net
@@ -82551,6 +82557,7 @@ nahccnovft.com
 native-track.com
 nazarickol.com
 nbbplbiyjhg.com
+nekaujoa.net
 neodatagroup.com
 nesto-sig.com
 neweggstats.com
@@ -82748,6 +82755,7 @@ rxpsaofevrikmi.com
 sadflannel.com
 sandsitedrhec.club
 saturim.com
+sauvffpijlyqf.com
 scissorshew.com
 scoota.co
 scornamentum.com
@@ -82760,6 +82768,7 @@ service.e-volution.ai
 servsave.com
 setbackclassy.com
 seventeencheckcurtain.com
+shhxgqpaxvdjn.com
 shndrktrk.com
 shofteph.com
 shopzilla.com
@@ -82823,6 +82832,7 @@ tarvemowhay.com
 tatevowel.com
 tawelhawel.com
 tb.baimgfroggd.site
+tcplpasdiiepsl.com
 tdwvknudt.com
 technotology.com
 teeponuy.com
@@ -82933,6 +82943,7 @@ wedxuaksargvlf.com
 welcomeneat.pro
 wfuipqowa.com
 wgcsxqkyry.com
+whagrogiva.com
 whingewost.com
 widdit.com
 widgets.coinmarketcap.com
