@@ -74919,6 +74919,7 @@ audienceinsights.com
 avalonalbum.com
 avocet.io
 awesomeagreement.com
+awesomeattack.com
 awstrack.me
 aztracking.net
 banner.finzoom.ro
@@ -74939,6 +74940,7 @@ bidsopt.com
 bidtellect.com
 big-bang-ads.com
 bigreal.org
+bizarrebaseball.com
 bizible.com
 bizzclick.com
 bkrtx.com
@@ -75042,7 +75044,6 @@ cointraffic.io
 coldbalance.com
 collector-dev.cdp-dev.cnn.com
 communications.melitaltd.com
-concerneddrink.com
 conditionchange.com
 conductrics.com
 consciouscheese.com
@@ -75053,7 +75054,6 @@ content22.online.citi.com
 converge-digital.com
 conversionbet.com
 convertingtraffic.com
-cookchalk.com
 cootlogix.com
 coxmt.com
 cpx-traffic.com
@@ -75071,6 +75071,8 @@ custom.plausible.io
 customers.kameleoon.com
 cutechin.com
 cxense.com
+d1f0tbk1v3e25u.cloudfront.net
+d81mfvml8p5ml.cloudfront.net
 dabiaozhi.com
 dacdn.visualwebsiteoptimizer.com
 dacdn.vwo.com
@@ -75111,7 +75113,6 @@ email-links.crowdfireapp.com
 email-open.adtidy.net
 email-open.adtidy.org
 email-opn.adguard.com
-email.m1.bktrksmail.com
 emaillinks.soundiiz.com
 emebo.io
 emerse.com
@@ -75163,7 +75164,6 @@ foresee.com
 forkcdn.com
 fpjs.io
 fqtag.com
-free-banners.com
 free-counter.co.uk
 freecounterstat.com
 freewheel.com
@@ -75216,12 +75216,14 @@ hearinglizards.com
 hellobar.com
 helpcollar.com
 hexcan.com
+hilariouscap.com
 hitcounters.miarroba.com
 hits-i.iubenda.com
 hits.sh
 hlok.qertewrt.com
 hollowafterthought.com
 homelycrown.com
+homelysleep.com
 hotjar.com
 hoverowl.com
 hs-banner.com
@@ -75324,6 +75326,7 @@ mackeeperapp.mackeeper.com
 madinad.com
 magicadz.co
 magicaljoin.com
+magicalmonth.com
 maltiverse.lt.acemlnc.com
 manageadv.cblogs.eu
 mantisadnetwork.com
@@ -75467,6 +75470,7 @@ post.spmailtechno.com
 postback.iqm.com
 ppc.adhere.marchex.com
 prebid.org
+presentbedroom.com
 priceypies.com
 priefy.com
 prmtracking.com
@@ -75591,6 +75595,7 @@ smashquartz.com
 smetrics.10daily.com.au
 smetrics.ctv.ca
 smilingcattle.com
+snailscart.com
 somniture.stuff.co.nz
 somoaudience.com
 sonobi.com
@@ -75605,8 +75610,8 @@ speakol.com
 specially4u.net
 speedomizer.com
 speedshiftmedia.com
-spikyslave.com
 spinnaker-js.com
+spitefulstop.com
 spotlessstamp.com
 spotx.tv
 springbot.com
@@ -75652,7 +75657,9 @@ t.salesmatemail.com
 t.vacations.disneydestinations.com
 t.visit.disneydestinations.com
 t.visitorqueue.com
+tag-demo.mention-me.com
 tag.links-analytics.com
+tag.mention-me.com
 tagcommander.com
 takethatad.com
 tamgrt.com
@@ -75669,6 +75676,7 @@ tealium.com
 tediousticket.com
 telaria.com
 temelio.com
+teststocking.com
 the-ozone-project.com
 theadex.com
 theclickads.com
@@ -75772,6 +75780,7 @@ udncoeln.com
 uib.ff.avast.com
 ukoffzeh.com
 ultimateclixx.com
+unbecomingbikes.com
 unbecominglamp.com
 understoodocean.com
 undertone.com
@@ -83488,6 +83497,7 @@ forter.com
 forthcomingpropelwho.com
 fortvision.com
 fpyhuktuwatn.com
+free-banners.com
 freelinks.neocities.org
 freezelacking.com
 freyr-clo.com
