@@ -76579,8 +76579,6 @@ www.flashtalking.com
 cca-fra2.rubiconproject.com
 cca-hkg1.rubiconproject.com
 micro.rubiconproject.com
-mpsnare.iesnare.com
-www.iesnare.com
 fyber.com
 s.update.postimp-ofw.fyber.com
 skadnetworks.fyber.com
@@ -81174,6 +81172,7 @@ ads.livetv644.me
 ads.livetv655.me
 ads.livetv658.me
 ads.livetv662.me
+ads.livetv664.me
 api-staging.company-target.com
 media.company-target.com
 s.company-target.com
@@ -82788,6 +82787,7 @@ logs.docnhanh.com.vn
 logs.thethaovanhoa.vn
 logsbin.dantri.com.vn
 logscafef.channelvn.net
+logv3.metric.vn
 marketing.itgeek.vn
 matomo.quan.hoabinh.vn
 mautic.200lab.io
@@ -83420,6 +83420,7 @@ doomedchurrip.space
 doubleclickbygoogle.com
 doublepimpads.com
 downloadr.xyz
+dpmawsiaaep.com
 dpyabvkadg.com
 droopingmore.com
 dsucjlwjypo.com
@@ -83923,6 +83924,7 @@ panagiatelia.website
 pansidlike.net
 papayaburbles.com
 pardnergam.com
+parentlargevia.com
 patro-sfe.com
 paxzfenara.com
 pay4results24.eu
