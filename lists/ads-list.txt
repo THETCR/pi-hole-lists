@@ -74848,6 +74848,7 @@ adtech-digital.ru
 adtechjp.com
 adthrive.com
 adthurst.com
+adtrack.voicestar.com
 adtraction.com
 adv.donejty.pl
 adv.mpvc.it
@@ -74891,7 +74892,6 @@ analytics.pointdrive.linkedin.com
 analytics.santander.co.uk
 analytics.xelondigital.com
 analyticsapi.happypancake.net
-analytik.xyz
 ancientact.com
 aniview.com
 annoyedairport.com
@@ -76648,6 +76648,7 @@ attr.union.ucweb.com
 union.ucweb.com
 ads.uc.cn
 adslot.uc.cn
+applog-perf.uc.cn
 gdpr.branch.io
 go.branch.io
 growth.branch.io
@@ -81179,6 +81180,7 @@ ads.livetv658.me
 ads.livetv662.me
 ads.livetv664.me
 ads.livetv670.me
+ads.livetv671.me
 api-staging.company-target.com
 media.company-target.com
 s.company-target.com
@@ -81220,6 +81222,8 @@ media.amntx1.net
 srv.amntx1.net
 track.amntx1.net
 cdn.trafficbass.com
+pixfuture.com
+served-by.pixfuture.com
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -82366,6 +82370,9 @@ sponsor.imacdn.com
 quangcao-thanhnien.epicdn.me
 log-baodauthau.epicdn.me
 log-baogialai.epicdn.me
+log-dttc-sggp.epicdn.me
+log-en-nhandan.epicdn.me
+log-en-sggp.epicdn.me
 log-giaoduc.epicdn.me
 log-giaoducthoidai.epicdn.me
 log-kienthucnet.epicdn.me
@@ -82742,6 +82749,9 @@ live.vnpgroup.net
 liveonline.nhanhoa.com
 lmsreport.systems.vn
 log-collector.shopee.vn
+log-dttc.sggp.org.vn
+log-en.nhandan.vn
+log-en.sggp.org.vn
 log.anninhthudo.vn
 log.baobackan.com.vn
 log.baocaobang.vn
@@ -83980,6 +83990,7 @@ marketo.net
 mars.media
 mat.luckyspin666.com
 matecatenae.com
+materialplayground.com
 matqqagvkaaftr.com
 mawkydewan.digital
 maxgid.com
@@ -83991,6 +84002,7 @@ medibaad.com
 medtargetsystem.com
 menelaus-col.com
 mentaib.casa
+mesallysavor.tech
 mesangefanwise.tech
 metric.cliphub.io
 mfajfikmyqan.com
@@ -84149,6 +84161,7 @@ oqfpuzaltac.com
 oqnfsivlp.com
 oqnghaofps.com
 organizationwoundedvast.com
+origanfumier.digital
 orige-duo.com
 orion-gen.com
 oriori.com
@@ -85029,6 +85042,7 @@ d1wix2gc2cgqis.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
 d21y75miwcfqoq.cloudfront.net
 d24rtvkqjwgutp.cloudfront.net
+d2uhnetoehh304.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2yyd1h5u9mauk.cloudfront.net
 d38fey2d93vryi.cloudfront.net
@@ -85186,6 +85200,7 @@ redretarget.com
 referer.pixplug.in
 remyyadan.online.fr
 report.uc.heytapmobi.com
+reporting-api.gannettinnovation.com
 rfpx1.com
 richmetrics.com
 risk.clearbit.com
