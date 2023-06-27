@@ -75298,6 +75298,7 @@ lightcast.leadscoringcenter.com
 lightstep.medium.systems
 link.axios.com
 link.uk.expediamail.com
+links.email.crunchbase.com
 links.zoopla.co.uk
 litix.io
 liveadexchanger.com
@@ -75463,6 +75464,7 @@ placeframe.com
 plausibleio.workers.dev
 pltraffic8.com
 pluckypocket.com
+pocketfaucet.com
 pointlesshour.com
 pointlessprofit.com
 pokkt.com
@@ -75782,6 +75784,7 @@ udncoeln.com
 uib.ff.avast.com
 ukoffzeh.com
 ultimateclixx.com
+unaccountablepie.com
 unbecomingbikes.com
 unbecominglamp.com
 understoodocean.com
@@ -81181,6 +81184,7 @@ ads.livetv662.me
 ads.livetv664.me
 ads.livetv670.me
 ads.livetv671.me
+ads.livetv673.me
 api-staging.company-target.com
 media.company-target.com
 s.company-target.com
@@ -81224,6 +81228,7 @@ track.amntx1.net
 cdn.trafficbass.com
 pixfuture.com
 served-by.pixfuture.com
+loader.wisepops.com
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -82839,6 +82844,7 @@ s.baomoi.xdn.vn
 s.homedy.com
 s.kenh14.vn
 s.soha.vn
+s6.textlink.vn
 smetrics.kone.vn
 st-a.vtvdigital.vn
 stat.headlines.pw
@@ -82862,7 +82868,6 @@ sv-api-event.headlines.pw
 ta.toprework.vn
 tagging-qadkfoj6ha-as.a.run.app
 tech.zapps.me
-textlink.vn
 thongke.24h.com.vn
 thongke.arttimes.vn
 thongke.baotintuc.vn
@@ -83942,6 +83947,7 @@ lemmataoutsoar.com
 leont-pfd.com
 lfeorrzkua.com
 lgkdnlienpynmn.com
+lhgwyrecj.com
 lichtmails.website
 ligeia-gip.com
 lightboxcdn.com
@@ -84586,6 +84592,7 @@ thor-pom.com
 thripelbertie.website
 thutm-bru.com
 tiarasorthose.website
+tiijdxto.com
 tirosagalite.com
 tixoxzfpur.com
 tjclskcamptg.com
@@ -84708,6 +84715,7 @@ wanafkxpior.com
 wanlyavower.com
 washedrunaway.com
 wasplighthouse.com
+wcadlxvbjus.com
 wcofweagvafx.com
 wcuamsmakq.com
 wearemiq.com
