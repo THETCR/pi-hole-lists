@@ -76555,6 +76555,7 @@ click.digital.metaquestmail.com
 click.discord.com
 click.e.bbcmail.co.uk
 click.e.progressive.com
+click.e.zoom.us
 click.em.blizzard.com
 click.email.bbc.com
 click.email.sonos.com
@@ -81386,6 +81387,7 @@ sync.fivecdm.com
 script.crsspxl.com
 eventgateway.soundcloud.com
 eventlogger.soundcloud.com
+events-api.soundcloud.com
 promoted.soundcloud.com
 telemetry.soundcloud.com
 adg-data.kajicam.com
@@ -82785,6 +82787,9 @@ sf16-static.i18n-pglstatp.com
 ubembed.com
 assets.ubembed.com
 adstartmedia.g2afse.com
+1l-hit.mail.ru
+1l-view.mail.ru
+alt-ad.mail.ru
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
