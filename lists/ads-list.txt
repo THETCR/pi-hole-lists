@@ -76756,6 +76756,7 @@ go.xlirdr.com
 googleanalytics.com
 gothamads.com
 gotraffic.net
+grandfatherguitar.com
 grapeshot.co.uk
 groundtruth.com
 gstaticx.com
@@ -82733,6 +82734,7 @@ ads.livetv671.me
 ads.livetv673.me
 ads.livetv676.me
 ads.livetv681.me
+ads.livetv683.me
 api-staging.company-target.com
 media.company-target.com
 s.company-target.com
