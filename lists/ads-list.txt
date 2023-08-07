@@ -77741,13 +77741,11 @@ eclkspbn.com
 edaa.eu
 edgexads.com
 em1.yoursantander.co.uk
-email-clk.adguard.com
 email-link.adtidy.net
 email-link.adtidy.org
 email-links.crowdfireapp.com
 email-open.adtidy.net
 email-open.adtidy.org
-email-opn.adguard.com
 emaillinks.soundiiz.com
 emebo.io
 emerse.com
@@ -83249,6 +83247,7 @@ log.api.useinsider.com
 mobileanalytics.useinsider.com
 wp-log.api.useinsider.com
 admost-banner.b-cdn.net
+adsninja.b-cdn.net
 adstatic.b-cdn.net
 bbangads.b-cdn.net
 bdtt.b-cdn.net
@@ -83812,6 +83811,7 @@ ads.livetv684.me
 ads.livetv686.me
 ads.livetv687.me
 ads.livetv689.me
+ads.livetv691.me
 api-staging.company-target.com
 media.company-target.com
 s.company-target.com
@@ -83959,6 +83959,10 @@ audrte.com
 uipus.semasio.net
 adswin.net
 aff.adswin.net
+adsninja.ca
+cdn.adsninja.ca
+pbs.adsninja.ca
+video.adsninja.ca
 media.adtimaserver.vn
 media.org.adtimaserver.vn
 staging.api.adtimaserver.vn
@@ -85803,7 +85807,6 @@ adsloading.com
 adslop.com
 adsmetadata.mobileadexchange.net
 adsmind.gdtimg.com
-adsninja.ca
 adsoss.uqualities.com
 adspleen.com
 adspot.co
