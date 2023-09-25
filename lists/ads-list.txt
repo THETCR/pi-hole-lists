@@ -81831,6 +81831,8 @@ rcm-na.amazon-adsystems.com
 ws.amazon-adsystems.com
 cloudfront-labs.amazonaws.com
 popadex-1919430815.us-east-1.elb.amazonaws.com
+analyticsengine.s3.amazonaws.com
+sprocket-ping.s3.amazonaws.com
 us-east-1.telemetry.insights.video.a2z.com
 platform.tumblr.com
 saber.srvcs.tumblr.com
