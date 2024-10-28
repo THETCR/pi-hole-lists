@@ -5433,6 +5433,7 @@ analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
 analytics.vixcloud.co
+analytics.vortexscans.com
 analytics.warnertv.fr
 analytics.wavebox.io
 analytics.wayland.app
@@ -5610,6 +5611,7 @@ api.elliehuxtable.com
 api.fuck.education
 api-hotmart-tracking-manager.hotmart.com
 api-js.mixpanel.com
+api.june.so
 a.pikabu.ru
 apilog-web.acfun.cn
 api.ryanyao.design
@@ -14158,6 +14160,7 @@ hits.antena3.com
 hits.dealer.com
 hitserver.ibope.com.br
 hits.getelevar.com
+hits.gokwik.co
 hits.guardian.co.uk
 hits.informer.com
 hit.skrz.cz
@@ -24261,6 +24264,7 @@ puiwrs.misterspex.de
 pulsar.ebay.com
 pulse.delta.com
 pulse.munsonhealthcare.org
+pulse.shopflo.com
 pumlmb.netcologne.de
 pumpkin.abine.com
 pu.pretunique.fr
@@ -30506,6 +30510,7 @@ sqtivj.vidaxl.hr
 squirrel.cividi.ch
 squirrel.malaynahocker.com
 sr59t7wbx5.claricelin.com
+src.freshmarketer.in
 srd1-pdx.net.jumia.ci
 srepdata.12newsnow.com
 srepdata.13wmaz.com
@@ -31276,6 +31281,7 @@ statistics.streamdav.com
 statistics.tattermedia.com
 statistics.tuv.com
 statistics.wibiya.com
+statistiek.rijksoverheid.nl
 statistik.apartments-tirolerhaus.at
 statistik.simaja.de
 stat.iteye.com
@@ -46919,6 +46925,9 @@ in-ftd-107.jp2.vip.prod.criteo.com
 in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
+in-ftd-109.fr3.vip.prod.criteo.com
+in-ftd-109.sg1.vip.prod.criteo.com
+in-ftd-109.us5.vip.prod.criteo.com
 in-ftd-65.da1.vip.prod.criteo.com
 in-ftd-65.fr3.vip.prod.criteo.com
 in-ftd-65.jp2.vip.prod.criteo.com
@@ -485874,7 +485883,6 @@ f-log-win-extension.grammarly.io
 f-log.grammarly.io
 facesnotebook.com
 failover-telemetry-eu.tradingview.com
-faintestlogic.com
 falsifylilac.com
 fatmedia.io
 fbcdn2.com
@@ -486070,7 +486078,6 @@ imonomy.com
 improvedigital.com
 improvely.com
 improving.duckduckgo.com
-imshopping.com
 in-adreq.vivoglobal.com
 in-adsjssdk.vivoglobal.com
 in-apponrt-stsdk.vivoglobal.com
@@ -488661,11 +488668,23 @@ mkt1222.com
 mkt12220.com
 mkt12221.com
 mkt12222.com
+mkt12223.com
 mkt12224.com
 mkt12225.com
 mkt12226.com
 mkt12227.com
+mkt12228.com
+mkt12229.com
 mkt1223.com
+mkt12230.com
+mkt12231.com
+mkt12232.com
+mkt12233.com
+mkt12234.com
+mkt12235.com
+mkt12236.com
+mkt12237.com
+mkt12238.com
 mkt1224.com
 mkt1225.com
 mkt1226.com
@@ -497809,7 +497828,6 @@ ometria.email
 omgt1.com
 omgt3.com
 omgt4.com
-omgt6.com
 omguk.com
 onautcatholi.xyz
 onclickalgo.com
