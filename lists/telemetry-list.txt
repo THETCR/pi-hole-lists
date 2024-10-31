@@ -30606,6 +30606,7 @@ srsa.srglobal.com
 srsg.srglobal.com
 srtb.msn.com
 sruk.srglobal.com
+srvgl.com
 srv.plesk.com
 ssa.asianfoodnetwork.com
 s.sachem.ca
@@ -37604,7 +37605,6 @@ web.campaign.miriade.com
 web.campaigns.colonialfirststate.com.au
 web.campaign.v73.it
 web.capriceshoes.com
-webcare.byside.com
 web.care.eehealth.org
 web.care.lcmchealth.org
 web.care.mclaren.org
@@ -46926,6 +46926,7 @@ in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
 in-ftd-109.fr3.vip.prod.criteo.com
+in-ftd-109.nl3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
 in-ftd-109.us5.vip.prod.criteo.com
 in-ftd-65.da1.vip.prod.criteo.com
@@ -47954,6 +47955,7 @@ mail.francescas.com
 mail.georgejonmail.com
 mail.globalcloudmail.com
 mail.gradprogram.org
+mail.graviemail.com
 mail.haloacton.com
 mail.healthgradesprovider.com
 mail.historictours.net
@@ -486109,7 +486111,6 @@ intelli-direct.com
 intelligenceadx.com
 intent.ai
 intercom.com
-intersectionweigh.com
 interstitial-07.com
 intorterraon.com
 iocnt.net
@@ -498171,7 +498172,6 @@ salesmanago.pl
 sas15k01.com
 saymedia.com
 sayu.co.uk
-sayutracking.co.uk
 sc.smardroid.com
 schibsted.io
 schibsted.media
@@ -498192,7 +498192,6 @@ securecd-smnd.com
 securepaths.com
 seeyoufarm.com
 seizedpenholdercranny.com
-sellathon.com
 sematext.com
 sendgrid.me
 sendinblue.com
