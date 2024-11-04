@@ -4938,6 +4938,7 @@ analytics.adobe.ly
 analytics.adultswim.co.uk
 analytics.agenedia.com
 analytics.agoda.com
+analytics.ahrefs.dev
 analytics.aimtell.com
 analytics.airindia.com
 analytics.airtron.com
@@ -10684,6 +10685,7 @@ dm-event.net
 dmkt.solutions.cas.org
 d.m-net.de
 dmpcdn.el-mundo.net
+dmp.citynews.ovh
 dmpmetrics.rcsmetrics.it
 dmpxs.com
 dmqykw.thirtymall.com
@@ -12725,6 +12727,7 @@ fpc.golubcapital.com
 fpc.immattersacp.org
 fpc.inxinternational.com
 fpc.laerdal.com
+fpcn.bpsgameserver.com
 fpc.pelican.com
 fpc.questoraclecommunity.org
 fpc.sage.com
@@ -15569,7 +15572,6 @@ info.moneycontrol.network18online.com
 info.monsooninc.com
 info.morganfranklin.com
 info.motion10.nl
-info.mouser.com
 info.msconsultants.com
 info.m.seek.com.au
 info.m.seek.co.nz
@@ -21895,6 +21897,7 @@ mi.miliboo.lu
 mine.nahnoji.cz
 minerad.com
 mini-site.larksuite-marketing.com
+minstats.xyz
 m.ioicommunity.com.my
 miqeuu.timberland.it
 mirabelanalytics.com
@@ -33855,7 +33858,6 @@ tm.urssaf.fr
 tmvasapp.fitnessyard.com
 tm.vendemore.com
 tmwkya.jh-profishop.at
-tmx.bestbuy.com
 tmxjdr.benaza.ro
 tmx.td.com
 tmy8.madeindesign.ch
@@ -37228,7 +37230,6 @@ vfo4.carrefour-banque.fr
 vfo.voyage-prive.co.uk
 vf.startpage.com
 vfvcxv.naturhaeuschen.de
-vg247-p2.vg247.com
 vg247-uk.vg247.com
 vgavzy.spierandmackay.com
 vgazda.krefel.be
@@ -46925,6 +46926,7 @@ in-ftd-107.jp2.vip.prod.criteo.com
 in-ftd-107.nl3.vip.prod.criteo.com
 in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
+in-ftd-109.da1.vip.prod.criteo.com
 in-ftd-109.fr3.vip.prod.criteo.com
 in-ftd-109.nl3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
@@ -58055,7 +58057,6 @@ foxnet.demdex.net
 foxnews.demdex.net
 foxtel.demdex.net
 fp.careem.com
-fpcn.bpsgameserver.com
 fp.disney.go.com
 fp-int.fraudmetrix.cn
 fpt.live.com
@@ -140738,6 +140739,7 @@ ww35.bestbritneypics.com
 www.bestbritneypics.com
 context.bestbuy.com
 pl.context.bestbuy.com
+tmx.bestbuy.com
 bestbuyaccounts.com
 ww1.bestbuyaccounts.com
 bestbuygiftcards.com
@@ -484975,7 +484977,6 @@ fls-na.amazon.com
 mads-eu.amazon.com
 mas-sdk.amazon.com
 d3p8zr0ffa9t17.cloudfront.net
-01mspmd5yalky8.com
 0sntp7dnrr.com
 0x01n2ptpuz3.com
 1010data.com
@@ -488686,7 +488687,10 @@ mkt12235.com
 mkt12236.com
 mkt12237.com
 mkt12238.com
+mkt12239.com
 mkt1224.com
+mkt12240.com
+mkt12241.com
 mkt1225.com
 mkt1226.com
 mkt1227.com
@@ -498108,7 +498112,6 @@ relateddigital.com
 relay.bid
 relentlo.com
 relevant-digital.com
-reluctanceleatheroptional.com
 relybelonged.com
 remainmother.com
 research-int.com
@@ -498128,7 +498131,6 @@ rfrl.pw
 rhythmxchange.com
 ricewaterhou.xyz
 richmedia.cz
-rilelogicbuy.com
 riotousunspeakablestreet.com
 riotpixels.net
 ripewhining.com
