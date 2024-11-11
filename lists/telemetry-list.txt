@@ -8045,6 +8045,7 @@ cfb.8it.me
 cf.campagnes-france.com
 c.fingerprint.com
 cf.overblog.com
+cf-pixelfront-analytics.widencdn.net
 cfpwood.actonservice.com
 cfrnyp.kars4kids.org
 cfsaze.retailmenot.com
@@ -12013,6 +12014,7 @@ erp.qwic.nl
 err.ifengcloud.ifeng.com
 error-collector.ted.com
 errorreports.couponcabin.com
+errors.darkreader.app
 errors.snackly.co
 error.videonow.ru
 ert5.rmcsport.tv
@@ -12909,6 +12911,7 @@ fzgpzp.opodo.de
 fzlnk.com
 fzqjvw.oakandluna.com
 fzu4.bysidecar.com
+g10102301085.co
 g10300385420.co
 g11686975765.co
 g11885060100.co
@@ -26795,6 +26798,7 @@ sheeta.nrj-play.fr
 shelbypublishing.actonservice.com
 shell-recharge.tupinambaenergia.com.br
 sheregesh-io.traveler.today
+shgcdn3.com
 shhoix0fuonj0hz6.net.fidor.de
 shipsmarter.idrivelogistics.com
 shjwhv.falsepeti.com
@@ -31274,6 +31278,7 @@ statisticplatform.com
 statistic.qzone.qq.com
 statistics.csob.cz
 statistics.daktilo.com
+statistics.darkreader.app
 statistics.fppressa.ru
 statistics.heatbeat.de
 statistics.jfmedier.dk
@@ -31498,6 +31503,7 @@ stats.dailyposter.com
 stats.danestevens.dev
 stats.danielwolf.photography
 stats.danner-landschaftsbau.at
+stats.darkreader.app
 stats.dashbit.co
 stats.datahjaelp.net
 stats.datamanie.cz
@@ -31706,6 +31712,7 @@ stats.jhsheridan.com
 stats.jjude.com
 stats.joaopedro.dev
 stats.jsbible.com
+statsjs.klevu.com
 stats.jtrees.io
 stats.jun-etan.com
 stats.justinwilliams.ca
@@ -32145,6 +32152,7 @@ stats.vattenfall.nl
 stats.vattenfall.se
 stats.vdsnow.ru
 stats.vican.me
+stats.vidbinge.com
 stats.viddler.com
 stats.vidyome.com
 stats.visions.ch
@@ -32820,7 +32828,6 @@ tags.johnlewis.com
 tags.klove.com
 tags.master-perf-tools.com
 tags.op-palvelut.fi
-tags.refinery89.com
 tags.soloway.ru
 tags.stepstone.com
 tag.statshop.fr
@@ -32876,7 +32883,6 @@ tao.barstoolsports.com
 t.ao.consumerfinancereport.com
 t.ao.walletjoy.com
 tap.carling.com
-taplytics-umami.grubhub.com
 t.appsflyer.com
 t.appstatesports.com
 t.arcade.show
@@ -46928,6 +46934,7 @@ in-ftd-107.sg1.vip.prod.criteo.com
 in-ftd-107.us5.vip.prod.criteo.com
 in-ftd-109.da1.vip.prod.criteo.com
 in-ftd-109.fr3.vip.prod.criteo.com
+in-ftd-109.jp2.vip.prod.criteo.com
 in-ftd-109.nl3.vip.prod.criteo.com
 in-ftd-109.sg1.vip.prod.criteo.com
 in-ftd-109.us5.vip.prod.criteo.com
@@ -485032,7 +485039,6 @@ ad-optima.com
 ad-plus.com.tr
 ad.10010.com
 ad.12dt.com
-ad.investmap.pl
 ad.ng.ru
 ad.particlenews.com
 ad.plus
@@ -485382,7 +485388,6 @@ apptornado.com
 apptracker.gamedock.io
 aptrinsic.com
 aqua-adserver.com
-arbourrenewal.com
 arcpublishing.com
 arcspire.io
 arity.com
@@ -485606,7 +485611,6 @@ cmail3.com
 cmail4.com
 cmail5.com
 cmdspassets.com
-cn-rtb.com
 co-buying.com
 cobwebcomprehension.com
 codigo.se
@@ -485734,7 +485738,6 @@ diagramwrangleupdate.com
 digidip.net
 digital-metric.com
 digitaldoughnut.com
-digitaldoughnut.email
 digitalproserver.com
 digitaltarget.ru
 digitalturbine.com
@@ -486238,7 +486241,6 @@ log16-platform-ycru.tiktokv.com
 logauth.polarisoffice.com
 logconfig.polarisoffice.com
 logger.foxitcloud.com
-logger.unsplash.com
 logger.virgul.com
 loginradius.com
 logs.amap.com
@@ -488691,6 +488693,12 @@ mkt12239.com
 mkt1224.com
 mkt12240.com
 mkt12241.com
+mkt12242.com
+mkt12243.com
+mkt12244.com
+mkt12245.com
+mkt12246.com
+mkt12247.com
 mkt1225.com
 mkt1226.com
 mkt1227.com
@@ -498211,7 +498219,6 @@ sentry.platform24.tv
 sentry.prusa3d.com
 sentry.rustore.ru
 sentry.srv.habr.com
-sessionamateur.com
 shaggyselectmast.com
 shareaholic.net
 shared1.ad-lister.co.uk
@@ -498385,7 +498392,6 @@ statuscake.com
 steepto.com
 stickerchapelsailing.com
 stickervillain.com
-stimulateartificial.com
 storeen.ldmnq.com
 stores-counters.wix.com
 stormperpetual.com
@@ -498410,7 +498416,6 @@ superawesome.tv
 suphelper.com
 suppressedbottlesenjoyable.com
 surfe.pro
-surprisingarsonistcooperate.com
 survata.net
 survio.com
 swaptrap.live
