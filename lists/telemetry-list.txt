@@ -9169,6 +9169,7 @@ ct.pinterest.com
 ctr-iwb.nmg.de
 ctrkd.ilsole24ore.com
 ctr-opc.nmg.de
+ctr.po-kaki-to.com
 ct.taskhuman.com
 cttest.branch.rocks
 c-t.topya.com
@@ -17979,6 +17980,7 @@ log.cizion.com
 log.codemarketing.cloud
 log.cognex.com
 log.collectaction.com
+logcollector.note.com
 log.cookieyes.com
 log.cpex.cz
 log.dance
@@ -23395,6 +23397,7 @@ pabgey.siepomaga.pl
 pacstainless.actonservice.com
 pac.thescottishsun.co.uk
 pac.thesun.co.uk
+pac.thetimes.com
 paeppk.spar-mit.com
 page1solutions.actonservice.com
 page.asraymond.com
@@ -488707,7 +488710,9 @@ mkt12244.com
 mkt12245.com
 mkt12246.com
 mkt12247.com
+mkt12248.com
 mkt1225.com
+mkt12252.com
 mkt1226.com
 mkt1227.com
 mkt1228.com
