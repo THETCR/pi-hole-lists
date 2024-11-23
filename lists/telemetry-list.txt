@@ -6378,6 +6378,7 @@ app.solutions.intermec.com
 app.soonersports.com
 app.sortedai.com
 app.soultime.com
+apps-pbd.ctraffic.io
 apps.shakaguide.com
 apps.software.netsimplicity.com
 apps.spectrum-member.com
@@ -12186,6 +12187,7 @@ events.baselime.io
 events.bendigotafe.edu.au
 events.blackboard.com
 events.brightline.tv
+events.bsky.app
 events.btw.so
 events.careallies.com
 events.centex.com
@@ -12921,6 +12923,7 @@ g11885060100.co
 g1188506010.co
 g12083144435.co
 g12281228770.co
+g1386590346.co
 g1584674682.co
 g1584674684.co
 g1782759015.co
@@ -32390,7 +32393,6 @@ strack.www.allianzcare-corporate.com
 strapi.clickjogos.com.br
 strategycompanion.actonservice.com
 strawberry.basf.com
-stream.9now.com.au
 stream.corporatefinanceinstitute.com
 stream-log.dditscdn.com
 streams.cablecar.sph.com.sg
@@ -34188,6 +34190,7 @@ tracker.nbcuas.com
 tracker.nitropay.com
 tracker.nocodelytics.com
 tracker.novage.com.ua
+tracker.prod.ams3.k8s.hyperia.sk
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
@@ -37142,6 +37145,7 @@ ut.econnect.utexas.edu
 u-test.getgoose.com
 utexas.actonservice.com
 utgckq.reductionrevolution.com.au
+utics.nodejibi.in
 ut.iggroup.com
 utjzyz.phillips.com
 utklhk.kojima.net
@@ -485091,7 +485095,6 @@ adlooxtracking.ru
 admaym.com
 admetricspro.com
 admicro.vn
-admiredexcrete.com
 admixer.co.kr
 admixer.com
 admixplay.com
@@ -485637,7 +485640,6 @@ commandersact.com
 commonvivacious.com
 compresssavvydetected.com
 condenastdigital.com
-condolencessumcomics.com
 conductmassage.com
 config.claspws.tv
 config.sdk.scopely.io
@@ -485674,7 +485676,6 @@ coveritlive.com
 cpex.cz
 cpmprofitablecontent.com
 cpmrevenuenetwork.com
-crankyderangeabound.com
 crash-reporting.duowan.com
 crashdump.spotify.com
 crawledgoblet.com
@@ -488711,7 +488712,10 @@ mkt12245.com
 mkt12246.com
 mkt12247.com
 mkt12248.com
+mkt12249.com
 mkt1225.com
+mkt12250.com
+mkt12251.com
 mkt12252.com
 mkt1226.com
 mkt1227.com
@@ -498406,7 +498410,6 @@ stickerchapelsailing.com
 stickervillain.com
 storeen.ldmnq.com
 stores-counters.wix.com
-stormperpetual.com
 storyly.io
 streameye.net
 streamrail.com
