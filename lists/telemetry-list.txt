@@ -10837,6 +10837,7 @@ dtmssl.bobcat.com
 dtnmyp.cocotorico.com
 dtqcpx.eskor.se
 dtr-onsite-feed.datarize.ai
+dt-tracker.mamikos.com
 dttrk.com
 d.tv-asahi.co.jp
 dt.xfyun.cn
@@ -485168,6 +485169,7 @@ adsmediabox.com
 adsmoloco.com
 adsp.haberturk.com
 adsparc.com
+adspector.io
 adsrvr.io
 adsterra.com
 adstir.com
@@ -485695,7 +485697,6 @@ crispadvertising.com
 criticaltriggerweather.com
 crumblerefunddiana.com
 crumbtypewriterhome.com
-cten10010.com
 cuckooretire.com
 cuebiq.com
 curioushingefast.com
@@ -485753,7 +485754,6 @@ digitaldoughnut.com
 digitalproserver.com
 digitaltarget.ru
 digitalturbine.com
-digitalwindow.com
 diningsovereign.com
 directrev.com
 directservices.it
@@ -485870,7 +485870,6 @@ eventlog.willow.tv
 events.gfe.nvidia.com
 everestop.io
 ew1.reg.bigdata.ssp.samsung.com
-ewoverth.buzz
 ex.co
 excfgfile-vivofs-asia.vivo.com.cn
 excretekings.com
@@ -485946,7 +485945,6 @@ fpnpmcdn.net
 fredhopperservices.com
 freespee.com
 freestar.io
-frequencyfeelhoneymoon.com
 freshpops.net
 friendshipmale.com
 frosmo.com
@@ -486117,7 +486115,6 @@ ins.shalltry.com
 inscname.net
 inside-graph.com
 insights.enterprisealumni.com
-inspectlet.io
 inspector-collector.m.naver.com
 inspectorstrongerpill.com
 installationmidterm.com
@@ -486278,7 +486275,6 @@ m2track.co
 madcpms.com
 magic1.info
 magnetmail.net
-magreprints.com
 magsrv.com
 mahimeta.com
 mailchimp.com
@@ -486309,7 +486305,6 @@ mdp-appconf-us.heytapdl.com
 measurelib.com
 measurement-lab.org
 medals.bizrate.com
-medi-8.net
 media-adv.market.yandex.ru
 mediabong.com
 mediabr.media
@@ -488717,6 +488712,9 @@ mkt1225.com
 mkt12250.com
 mkt12251.com
 mkt12252.com
+mkt12256.com
+mkt12257.com
+mkt12258.com
 mkt1226.com
 mkt1227.com
 mkt1228.com
