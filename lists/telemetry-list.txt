@@ -4378,6 +4378,7 @@ ad.ichiban-boshi.com
 ad.ichiru.net
 ad.inhaabit.com
 adi.ni.com
+aditude.cloud
 adixkr.culturekings.com.au
 ad.jibunde-esute.com
 ad.kddi-fs.com
@@ -9390,7 +9391,6 @@ d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
 d1tbj6eaenapdy.cloudfront.net
 d1vg5xiq7qffdj.cloudfront.net
-d1wix2gc2cgqis.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1z3r0i09bwium.cloudfront.net
 d1z9vm58yath60.cloudfront.net
@@ -23990,6 +23990,7 @@ pl.terraintinker.com
 pl-topgal.m-shop.me
 plugs.jameco.com
 plusavecmoins.adp.ca
+pluto.smallpdf.com
 pl.venusafe.com
 plv.geocomply.com
 pl.volunteeringhb.org.nz
@@ -56980,13 +56981,16 @@ allstate.demdex.net
 ally.demdex.net
 alm.demdex.net
 a.localytics.com
+alog-default.umeng.com
 alogs.umengcloud.com
 alogs.umengcloud.com.gds.alibabadns.com
 alogs.umeng.com
 alogs.umeng.com.gds.alibabadns.com
 alogsus.umeng.com
 alog.umengcloud.com
+alog.umengcloud.com.gds.alibabadns.com
 alog.umeng.com
+alog.umeng.com.gds.alibabadns.com
 alogus.umeng.com
 al.resulticks.com
 alterra.demdex.net
@@ -486207,7 +486211,6 @@ licasd.com
 lifeboatlegalalleviate.com
 lightcast.com
 lightningbarrelwretch.com
-likedstring.com
 lilystyle.ai
 linkis.com
 linkonclick.com
@@ -488712,10 +488715,15 @@ mkt1225.com
 mkt12250.com
 mkt12251.com
 mkt12252.com
+mkt12255.com
 mkt12256.com
 mkt12257.com
 mkt12258.com
+mkt12259.com
 mkt1226.com
+mkt12260.com
+mkt12261.com
+mkt12262.com
 mkt1227.com
 mkt1228.com
 mkt1229.com
@@ -497824,7 +497832,6 @@ nobeta.com.br
 norma-external-collect.meizu.com
 nosto.com
 notes-analytics-events.apple.com
-notifycertainty.com
 notifyvisitors.com
 notsy.io
 noughttrustthreshold.com
@@ -498161,6 +498168,7 @@ rm0001.net
 rm0005.net
 rm02.net
 rm04.net
+rmhfrtnd.com
 ro-up.vivoglobal.com
 roistat.com
 rollmeout.xyz
