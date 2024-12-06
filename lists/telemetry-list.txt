@@ -5080,6 +5080,7 @@ analytics.eventbrite.com
 analytics.evo.co.uk
 analytics.faceitanalytics.com
 analytics.faprika.net
+analytics.fatmedia.io
 analytics.favcy.com
 analytics.ferguson.com
 analytics.firespring.com
@@ -45350,6 +45351,7 @@ footway.postaffiliatepro.com
 forbesinfo.forbes.com
 forbesmags.forbes.com
 forbusiness.benenden.co.uk
+forcesafesearch.google.com
 fordci1.ez-touch.net
 fordci2.ez-touch.net
 fordci3.ez-touch.net
@@ -488715,6 +488717,8 @@ mkt1225.com
 mkt12250.com
 mkt12251.com
 mkt12252.com
+mkt12253.com
+mkt12254.com
 mkt12255.com
 mkt12256.com
 mkt12257.com
@@ -488724,8 +488728,24 @@ mkt1226.com
 mkt12260.com
 mkt12261.com
 mkt12262.com
+mkt12263.com
+mkt12264.com
+mkt12265.com
+mkt12266.com
+mkt12267.com
+mkt12268.com
+mkt12269.com
 mkt1227.com
+mkt12270.com
+mkt12271.com
+mkt12273.com
+mkt12274.com
+mkt12275.com
+mkt12276.com
+mkt12277.com
+mkt12278.com
 mkt1228.com
+mkt12283.com
 mkt1229.com
 mkt1230.com
 mkt1231.com
@@ -498201,7 +498221,6 @@ sailthru.cloud
 salecycle.com
 salesfire.co.uk
 salesmanago.pl
-sas15k01.com
 saymedia.com
 sayu.co.uk
 sc.smardroid.com
@@ -498220,7 +498239,6 @@ search-log-1.tapatalk.com
 searchlinks.com
 seat.it
 secureanalytic.com
-securecd-smnd.com
 securepaths.com
 seeyoufarm.com
 seizedpenholdercranny.com
