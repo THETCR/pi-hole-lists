@@ -5404,6 +5404,7 @@ analytics.tnt-tv.ro
 analytics.tomato.gg
 analytics.tondach.pl
 analytics.top10-charts.com
+analytics.topseotoolkit.com
 analytics.tout.com
 analytics.toyotaforklift.com
 analytics-tracking.meetup.com
@@ -7661,7 +7662,6 @@ brshareandrent.eccocar.com
 brsmovecity.eccocar.com
 brsolenelocation.eccocar.com
 br.sprbl.st
-brsrvr.com
 brtelefurgo.eccocar.com
 brtimove.eccocar.com
 brtimovesharing.eccocar.com
@@ -8017,6 +8017,7 @@ cdn.net.dz.jumia.com
 cdn.net.elogia.net
 cdn.ravm.tv
 cdn-rum.ngenix.net
+cdns.brsrvr.com
 cdn.usefathom.com
 cdnwidget.com
 cdp.cifinancial.com
@@ -161929,6 +161930,7 @@ demand-engine.browsiprod.com
 device-detect.browsiprod.com
 events.browsiprod.com
 yield-manager.browsiprod.com
+brsrvr.com
 brm-core-0.brsrvr.com
 brm-perf-core-0.brsrvr.com
 brm-perf-suggest-0.brsrvr.com
@@ -161949,7 +161951,6 @@ bsapi-w2.brsrvr.com
 bsapi-w20.brsrvr.com
 bsapi-w6.brsrvr.com
 cdn.brsrvr.com
-cdns.brsrvr.com
 cdns-eu.brsrvr.com
 p.brsrvr.com
 p-eu.brsrvr.com
@@ -500259,7 +500260,6 @@ effectivedisplaycontent.com
 effectivedisplayformat.com
 effectivedisplayformats.com
 effectivegatetocontent.com
-effectiveperformanceformat.com
 effectiveperformancenetwork.com
 eighthpowerfully.com
 ekomi-us.com
@@ -500286,7 +500286,6 @@ emlfiles.com
 emlfiles1.com
 emlfiles4.com
 emlfiles5.com
-emlfiles8.com
 empower.net
 emsservice.de
 engagesciences.com
@@ -500316,7 +500315,6 @@ exe.bid
 exi8ef83z9.com
 exitbee.com
 exmarketplace.com
-exoticads.com
 experimentalconcerningsuck.com
 explorerpurity.com
 extole.com
