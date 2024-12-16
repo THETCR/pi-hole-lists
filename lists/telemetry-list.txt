@@ -12265,7 +12265,6 @@ events.santander.co.uk
 events.shareably.net
 events.sk.ht
 events.splash-screen.net
-events.split.io
 events.squarespace.com
 events.storifyme.com
 events.tafensw.edu.au
@@ -13876,7 +13875,6 @@ go.worldwinner.com
 go.wtcmachinery.com
 go.wu.com
 go.www4.earlywarning.com
-goya.rutube.ru
 go.you-app.com
 go.zakatpedia.com
 go.zapyle.com
@@ -18054,6 +18052,7 @@ log.ren.tv
 log.rhythmtowers.com
 log.rutube.ru
 logs.51cto.com
+logs.adplay.ru
 logs.animaapp.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
@@ -23499,6 +23498,7 @@ pages.vuzion.cloud
 pages.wardsintelligence.informa.com
 pages.zenefits.com
 page.thalesgroup.com
+pageviews.tray.com.br
 page.vital4.net
 paginaseloqua.unisabana.edu.co
 paintersusainc.actonservice.com
@@ -31278,6 +31278,7 @@ stat.dbschenker.com
 stat.detelefoongids.nl
 statdynamic.com
 stat.eagleplatform.com
+stat.fly.codes
 stat.funshion.net
 stat.glaze.ai
 stat.gomastercard.com.au
@@ -33608,6 +33609,7 @@ tidy.intel.in
 tidy.intel.la
 tif.ionos.com
 tiglck.technopolis.bg
+tiktok.tray.com.br
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
 timeclock.mytoolr.com
@@ -384730,6 +384732,7 @@ r2d2.az.split.io
 thanos-query-use-prod-1-aks.az.split.io
 cdn.split.io
 downloads.split.io
+events.split.io
 events-aws-prod-elb.split.io
 get.split.io
 go.split.io
@@ -499469,7 +499472,6 @@ d3p8zr0ffa9t17.cloudfront.net
 63r2vxacp0pr.com
 65twenty.com
 8s32e590un.com
-9nl.com
 a1webstats.com
 a9.com
 aanqylta.com
@@ -499536,7 +499538,6 @@ adkontekst.pl
 adlabsnetworks.com
 adlook.me
 adlooxtracking.ru
-admaym.com
 admetricspro.com
 admicro.vn
 admixer.co.kr
@@ -499676,7 +499677,6 @@ aj1559.online
 aj1907.online
 aj1985.online
 aj2031.online
-aj2113.online
 aj2178.online
 aj2204.online
 aj2295.online
@@ -499697,7 +499697,6 @@ altmetric.com
 alxbgo.com
 amdcopen.m.taobao.com
 amplience.com
-ampugi334f.com
 analitycs.net
 analysis.polarisoffice.com
 analyticlister.com
@@ -499777,7 +499776,6 @@ analytics.speckle.systems
 analytics.spotify.com
 analytics.ssense.com
 analytics.svt.se
-analytics.tebilisim.com
 analytics.theta360.com
 analytics.thewhiskyexchange.com
 analytics.ticketmaster.co.uk
@@ -499901,6 +499899,7 @@ batch.com
 batchgeo.com
 batchlogging4-noneu.truecaller.com
 baynote.net
+bbrdbr.com
 bcloudhost.com
 bcovery.com
 bcprm.com
@@ -499939,7 +499938,6 @@ bilsyndication.com
 bitmedia.io
 bitmovin.com
 blackcrow.ai
-blacknesskeepplan.com
 blinkx.com
 blubberspoiled.com
 blueconic.com
@@ -500026,7 +500024,6 @@ citruserve.com
 civiccomputing.com
 civicscience.com
 claspedtwelve.com
-clear-reports.com
 clearcode.cc
 clemencyexceptionpolar.com
 clenchedyouthmatching.com
@@ -500055,7 +500052,6 @@ clkmon.com
 clog.geniex.com
 clog.weverse.io
 closealert.com
-clouddecrease.com
 cloudservice14.kingsoft-office-service.com
 cluep.com
 cluodlfare.com
@@ -500167,11 +500163,9 @@ datawrapper.de
 dazeads1.online
 dazedengage.com
 dealer.com
-dealtale.com
 decenthat.com
 dedicated.domains
 deema.agency
-deeprootedstranded.com
 demand.supply
 demandjump.com
 demdex.com
@@ -500202,7 +500196,6 @@ dislanelibrar.top
 dismantlepenantiterrorist.com
 displaycontentnetwork.com
 displaycontentprofit.com
-displaymarketplace.com
 disrespectpreceding.com
 distributionrealmoth.com
 dl-rms.com
@@ -500430,7 +500423,6 @@ govmetric.com
 gracelessbrief.com
 grafana.org
 grantedpigsunborn.com
-grapeshot.com
 graphiq.com
 gravity.com
 greengrowth.space
@@ -500461,7 +500453,6 @@ happyfoxchat.com
 hc-analytics.idp.clogin.att.com
 headerlift.com
 heartbeat.dm.origin.com
-heartbeat.flickr.com
 hellosmpl.com
 helloworld.com
 hibids10.com
@@ -500694,7 +500685,6 @@ logs.guardianapis.com
 logs.unchecky.com
 logservice-dra.platform.hicloud.com
 logservice-dre.platform.hicloud.com
-logservice-drru.dt.hicloud.com
 logsss.com
 longabeach.com
 loopaautomate.com
@@ -503183,6 +503173,7 @@ mkt12282.com
 mkt12283.com
 mkt12284.com
 mkt12285.com
+mkt12286.com
 mkt12287.com
 mkt12288.com
 mkt12289.com
@@ -512249,7 +512240,6 @@ multispaces.net
 muvmobile.com
 mxapis.com
 mxlogic.com
-my-tracking.info
 myadmessenger.com
 myads.com
 mydatamanagerapp.com
@@ -512308,7 +512298,6 @@ nw-rail-03.com
 nyltx.com
 nzme-ads.co.nz
 o333o.com
-obnoxiousstackderide.com
 oclaserver.com
 octotracker-clients.net
 odourcowspeculation.com
@@ -512435,7 +512424,6 @@ pixel.nur.kz
 pixel.nymag.com
 pixel.patch.com
 pixel.smr8.ru
-pixel.staticworld.net
 pixel.web.roku.com
 pixel.wenxuecity.com
 pixelbox.uimserv.net
@@ -512477,10 +512465,8 @@ prd.sca.samsung.com
 preanalytication.com
 premiumads.com.br
 prf.hn
-prhzxq.com
 pricespider.com
 primis.tech
-privacity.se
 privacy.aol.com
 privacymanager.io
 privacytrck.com
@@ -512488,7 +512474,6 @@ privatestats.whatsapp.net
 prmutv.co
 prnx.net
 prod-telemetry.paradox-interactive.com
-prod.telemetry.ros.rockstargames.com
 productserve.com
 profitablecpmgate.com
 profitablecpmnetwork.com
