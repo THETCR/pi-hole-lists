@@ -4653,6 +4653,7 @@ a.foxsportswest.com
 a.foxsportswisconsin.com
 afoykb.ebook.de
 afpd.groundwidgets.com
+afrdtech.com
 africa.edm.globalsources.com
 africafr.promo.skf.com
 africa.promo.skf.com
@@ -20333,6 +20334,7 @@ me.sigsauer.com
 message.alldata.com
 messages.blackhat.com
 message.sonicwall.com
+mesure-pro.engie.fr
 met1.hp.com
 met2.hp.com
 metallic.actonservice.com
@@ -21941,6 +21943,7 @@ mitt3.3.se
 mitt.3.se
 mix-omniture.rbs.com
 mixomniture.rbs.com
+mixpanel-proxy.coingecko.com
 mixpanel-proxy.ted.com
 mixxuo.sportys.gr
 m.jarvisinvest.com
@@ -26626,6 +26629,7 @@ services.eclerx.com
 services.edc.ca
 services.princes-trust.org.uk
 services.releasepoint.com
+service.techzine.eu
 service.trustpid.com
 service.vrp.com
 servicing.business.hsbc.com
@@ -512631,7 +512635,6 @@ ru-comonrt-stsdk.vivoglobal.com
 ru-monitor-stsdk.vivoglobal.com
 rudderlabs.com
 rudderstack.com
-rum.kobo.com
 rum.ngenix.net
 runative-syndicate.com
 ruralstring.com
@@ -512685,7 +512688,6 @@ sentry.archive.org
 sentry.ozon.ru
 sentry.platform24.tv
 sentry.prusa3d.com
-sentry.rustore.ru
 sentry.srv.habr.com
 shaggyselectmast.com
 shareaholic.net
@@ -512722,7 +512724,6 @@ sidekickopen87.com
 sidekickopen90.com
 sigma-statistics-push.proxima.nie.easebar.com
 signcalamity.com
-significantoperativeclearance.com
 siliconanalytics.com
 silktide.com
 sillinessinterfere.com
@@ -512764,7 +512765,6 @@ smetrics.convivacarecenters.com
 smetrics.copart.com
 smetrics.eiu.com
 smetrics.go365.com
-smetrics.ilsole24ore.com
 smetrics.investec.com
 smetrics.jimmobile.be
 smetrics.meteomedia.com
@@ -512797,7 +512797,6 @@ sonataplatform.com
 sophus3.com
 spaceio.xyz
 sparkflow.net
-spatterjointposition.com
 spexaccess.net
 spicegems.org
 splendidsugar.com
@@ -512853,11 +512852,8 @@ statsfe2.ws.microsoft.com
 statsforads.com
 statsig.com
 statsproxy-public-service-live.ol.epicgames.com
-statsy.net
 statuscake.com
 steepto.com
-stickerchapelsailing.com
-stickervillain.com
 storeen.ldmnq.com
 stores-counters.wix.com
 storyly.io
@@ -512981,7 +512977,6 @@ track.libii.cn
 track.magictavern.com
 track.news.bg
 track.oasis.magictavern.com
-track.pcgh.io
 track.pmosvc.io
 track.saygames.io
 track.sublytics-5cffe909e69e6.com
@@ -513008,7 +513003,6 @@ tracking.india.miui.com
 tracking.komoot.de
 tracking.lenzmx.com
 tracking.minitool.com
-tracking.onap.io
 tracking.ott.yandex.net
 tracking.ott.yandex.ru
 tracking.overwolf.com
@@ -513116,6 +513110,7 @@ varietyofdisplayformats.com
 variouscreativeformats.com
 variousformatscontent.com
 vcardsdkservice.vivo.com.cn
+vcmdiawe.com
 vcmedia.vn
 vcommission.com
 vdna-assets.com
@@ -513205,7 +513200,6 @@ whairtoa.com
 whiteinflammablejaws.com
 who.nie.easebar.com
 wickedhumankindbarrel.com
-widezealconstant.com
 windingnegotiation.com
 wingify.com
 wistia.net
