@@ -80,7 +80,6 @@
 2tty.overstappen.nl
 2.wantsext.me
 2yqcaqbfnv.nextgen.shareablee.com
-31daa5lnq.de
 3347.wolf-gordon.com
 3347.wolfgordon.com
 3565433061881492849.academyofconsciousleadership.com
@@ -8348,6 +8347,7 @@ cmrcustomer.americanexpress.es
 cmrhvx.lojapegada.com.br
 cm-sg.americanexpress.com
 cms.hardloopaanbiedingen.nl
+cms-stats-view.vitrinabox.com
 cmtmwn.ditano.com
 cmttvv.bonprix.se
 c.musicradio.com
@@ -8826,6 +8826,7 @@ content.booksplusapp.com
 content.box.net
 content.brain-storm-email.com
 content.cammackhealth.com
+content.canadiantire.ca
 content.cannon-dunphy.com
 content.ceriumnetworks.com
 content.commandc.com
@@ -10153,7 +10154,6 @@ delete-me-2.branchcustom.xyz
 delete-me.branchcustom.xyz
 deleteme.intuit.com
 delikoko.openapp.link
-deliver.ptgncdn.com
 delivery.email-pepipost.branch.rocks
 delivery.lululemon.com
 delivery.marketing.boutiqaat.com
@@ -14388,7 +14388,6 @@ iconmediapixel.com
 iconnode.com
 icslearn.actonsoftware.com
 ictrjw.barcastores.com
-id5-sync.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
@@ -15935,7 +15934,6 @@ insights.v3.decathlon.net
 insights.zinio.com
 insight.velocify.com
 insight.wittkieffer.com
-insigit.com
 insitez.blob.core.windows.net
 ins.leavitt.com
 inspire.changehealthcare.com
@@ -16223,7 +16221,6 @@ jatpmv.megacolchoes.com.br
 javascriptcounter.appspot.com
 javs.actonservice.com
 javvso.newone-shop.com
-jazzyzest.cfd
 jbbljg.autoscout24.bg
 jbezdi.ilsole24ore.com
 jc917x3.adaptive.marketing
@@ -18295,6 +18292,7 @@ lyegyo.bluenile.com
 lyfnh.io
 lyfrir.purehockey.com
 lynjbq.sizeofficial.nl
+lynx.gruender.de
 lyonsdown.actonservice.com
 l.your.md
 lytics.findairpods.com
@@ -22029,7 +22027,6 @@ monorail-edge.shopifysvc.com
 monster.branch.rocks
 montelena.auction.co.kr
 montpalatin.handicap.fr
-monu.delivery
 mon.us.tiktokv.com
 mon.zijieapi.com
 moodlerooms.blackboard.com
@@ -33467,7 +33464,6 @@ thanks.hubspaces.jp
 thanks.olivesitter.com
 thanks.tsubaki-musicschool.com
 thaqyl.mediamarkt.nl
-thatmonkeybites3.com
 t.hawaiiathletics.com
 t.hawkeyesports.com
 thebasiccompanies.actonservice.com
@@ -37156,7 +37152,6 @@ vewbab.entertainmentearth.com
 vezsyr.bxblue.com.br
 vfd2dyn.vodafone.de
 vfghe.com
-vfgte.com
 vfmahn.slevomat.cz
 vfo4.carrefour-banque.fr
 vfo.voyage-prive.co.uk
@@ -70323,7 +70318,6 @@ content.benefitsaccess.org
 content.billdomain.com
 content.bizrate.com
 content.byabcd.com
-content.canadiantire.ca
 content.certifid.com
 content.citizensbankonline.com
 content.clubpremier.com
@@ -227903,6 +227897,7 @@ icyvein.com
 sitemap.icyvein.com
 ww1.icyvein.com
 www.icyvein.com
+id5-sync.com
 api.id5-sync.com
 bastion-1-gra7-eu-ovh.id5-sync.com
 c01.id5-sync.com
@@ -294392,6 +294387,7 @@ smtps.ptalo.com
 ww11.ptalo.com
 ptestexapta.com
 www.ptestexapta.com
+deliver.ptgncdn.com
 ptp22.com
 01.ptp22.com
 03.ptp22.com
@@ -334935,6 +334931,7 @@ ww1.vetements-ethiques.com
 ww17.vetements-ethiques.com
 ww25.vetements-ethiques.com
 www.vetements-ethiques.com
+vfgte.com
 a.vfgte.com
 v.vfgte.com
 vhejafry.com
@@ -349327,6 +349324,7 @@ www2.zanox-affiliate.de
 wwww.zanox-affiliate.de
 zimbra.zanox-affiliate.de
 zmail.zanox-affiliate.de
+monu.delivery
 context.monu.delivery
 dev.monu.delivery
 imps.monu.delivery
