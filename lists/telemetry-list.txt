@@ -14822,6 +14822,7 @@ gvfbpo.diafer.com.br
 gvmomuqjv1.swyftx.com
 gvxnff.soulara.com.au
 gw-analytics.panasonic.com
+gw.conversionsapigateway.com
 gw-dv.vip
 gwguyh.edreams.es
 g.whatsapp.net.iberostar.com
@@ -19092,6 +19093,7 @@ logtake.weidian.com
 log.targetpush.co.kr
 log.tossinvest.com
 log.ttbc-hcm.gov.vn
+log-upload-os.hoyolab.com
 log-upload-os.hoyoverse.com
 log.webnovel.com
 log.worldsoft-cms.info
@@ -25144,6 +25146,7 @@ plausible.exploreandcreate.com
 plausible.external.sine.foundation
 plausible.f1laps.com
 plausible.factly.in
+plausible.flamekiller.org
 plausible.flowcv.io
 plausible.getlean.digital
 plausible.giveatip.io
@@ -25880,6 +25883,7 @@ questions.theanswerco.com
 questrominfo.bu.edu
 questtest.epoise.com
 quickkoala.io
+quicklyedit.com
 quick.openapp.link
 quickpcfixer.click
 quicksandear.com
@@ -35473,6 +35477,7 @@ thoughtlessknot.com
 thraka.openapp.link
 threechurch.com
 threetruck.com
+thrillasoft.com
 thrive.metagenics.com
 throattrees.com
 thsnvv.hollywoodschaukel-paradies.de
@@ -43626,7 +43631,6 @@ go.e2language.com
 go.flx1.com
 go.jc.fm
 go.link
-go.microsoft.com
 go.nextiva.com
 go.nordlocker.net
 go.nordvpn.net
