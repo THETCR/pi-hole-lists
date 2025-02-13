@@ -13822,6 +13822,7 @@ geo.nbcsports.com
 geonetric.actonservice.com
 geo.ngtv.io
 geoservice.curse.com
+geotags.refinery89.com
 geo.thehindu.com
 geo.xcel.io
 geo.yahoo.com
@@ -16988,6 +16989,7 @@ international.wandw.ac.nz
 internet.degoo.com
 interworks.cloud.actonservice.com
 intg.snapchat.com
+in.treasuredata.com
 int-shares.ri.la
 intuitvisitorid.api.intuit.com
 in.upipr.co
@@ -18831,7 +18833,6 @@ link.truckerpath.com
 link.trycircle.com
 link.trymida.com
 link.trytaptab.com
-link.tubi.tv
 link.tul.io
 link.tumblbug.com
 link.tupinambaenergia.com.br
@@ -32895,6 +32896,7 @@ sswmetrics.firstair.ca
 sswmetrics.omanair.com
 sswmetrics.philippineairlines.com
 sswmetrics.sabre.com
+ss.woodupp.pl
 ssy7.destinia.com.ua
 st1.lg.avendrealouer.fr
 st-a8.tscubic.com
