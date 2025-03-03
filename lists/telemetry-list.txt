@@ -7421,6 +7421,7 @@ bi.banggood.com
 biberukalap.com
 bibglj.timberland.fr
 bi.concordesolutions.com
+bicp-analytics.postscript.io
 bidder.mediams.mb.softbank.jp
 bidgx.com
 bidswitch.net
@@ -7591,6 +7592,7 @@ bob.gitclear.com
 bobswatches.actonservice.com
 boelsl.lastijerasmagicas.com
 boewzj.meiji-jisho.com
+boiledegglabs.com
 boilingbeetle.com
 boilingcredit.com
 boilingumbrella.com
@@ -15355,6 +15357,7 @@ iconmediapixel.com
 iconnode.com
 icslearn.actonsoftware.com
 ictrjw.barcastores.com
+id.a-mx.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
@@ -23219,7 +23222,6 @@ money.clerkie.io
 monicaatron.com
 mon.ingservices.nl
 monitor-api.blackcrow.ai
-monitor.azure.com
 monitor.channel4.com
 monitor-frontend-collector.a.bybit-aws.com
 monitoring.iraiser.eu
@@ -161879,6 +161881,7 @@ www.azattyq.com
 azbnulhupw.com
 azrvahb.com
 vmss-clarity-ingest-eus2-b.eastus2.cloudapp.azure.com
+monitor.azure.com
 adx.monitor.azure.com
 adx.aimon.monitor.azure.com
 westcentralus.cds.aimon.monitor.azure.com
