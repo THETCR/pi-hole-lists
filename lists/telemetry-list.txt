@@ -23738,7 +23738,6 @@ nl-go.experian.com
 nlgzhd.yoox.com
 nljjem.honeys-onlineshop.com
 nl-nl.coloplastcare.com
-nlog.naver.com
 nlp-japan.life-and-mind.com
 nltihf.fashiondays.ro
 nltzqx.autodoc.co.uk
@@ -33759,6 +33758,7 @@ stats.sebastiangale.ca
 stats.sec.telefonica.com
 stats.selectam.io
 stats.sendngnt.com
+stats.senty.com.au
 stats.servicedesignjobs.com
 stats.seva.rocks
 stats.sexemodel.com
@@ -38755,6 +38755,7 @@ tuvevx.agent-sana.com
 t.valcyte.com
 tvcoag.brw.pl
 t.veranstaltungsticket-bahn.de
+tver-metrics.streaks.jp
 t.villanova.com
 t.virginiasports.com
 tvkfms.nta.co.jp
