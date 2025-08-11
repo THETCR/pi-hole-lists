@@ -7505,6 +7505,7 @@ blisscalendar.com
 blissfulcrescendo.com
 blissfullagoon.com
 blitz-analytics-batch-server.blitz.gg
+blitzcampaigns.com
 blmjbp.casamundo.pl
 blockchain.actonservice.com
 blockdial.com
@@ -8831,6 +8832,7 @@ collector.github.com
 collector.hippodromeonline.com
 collector.mazeberry.com
 collector.megaxh.com
+collector.net-logger.com
 collector.pi.spectrum.net
 collector-px0py5pczn.octopart.com
 collector.quillbot.com
@@ -12606,6 +12608,7 @@ ermiph.petermanningnyc.com
 eroar.lionsclubs.org
 erp.qwic.nl
 err.ifengcloud.ifeng.com
+error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
 error-collector.ted.com
 errorreports.couponcabin.com
@@ -13689,7 +13692,6 @@ g993dvyzae.branch.salesfloor.net
 gaafbi.fashiondays.hu
 ga-beacon.appspot.com
 gaccwr.dutramaquinas.com.br
-ga.finam.ru
 ga.groc.press
 gagysn.floward.com
 gahhfg.bobo.com.br
@@ -13747,6 +13749,7 @@ gdqlno.weisshaus.de
 gdsngr.chainreactioncycles.com
 gdt.qq.com
 gea-exchange-03.net.jumia.ug
+gearbubbles.com
 gear.echovisuals.com
 gecfnc.foresight.jp
 gedozw.autoscout24.cz
@@ -14959,6 +14962,7 @@ hello.staticstuff.net
 hello.stbpost.be
 hello.steadyapp.com
 hello.trailblazers.com
+hellounbox.com
 hello.wellocution.com
 helpcollar.com
 helpdesk.thinkhdi.com
@@ -28590,6 +28594,7 @@ skullmagnets.com
 skxbbj.clasic.jp
 skylightdata.com
 slackb.com
+slackpod.com
 slashnext.actonservice.com
 s.latam.cemex.com
 slaunch.shopcanopy.com
@@ -35211,6 +35216,7 @@ telemetry.moveworks.com
 telemetry.navispherecarrier.com
 telemetry.owenscorning.com
 telemetry.phenixrts.com
+telemetry.proton.me
 telemetry.reembed.com
 telemetry.ruthschris.com
 telemetry.sdk.inmobi.com
@@ -35457,6 +35463,7 @@ thecea.actonservice.com
 thefishstops.com
 thefontzone.com
 thejavalane.com
+themangotea.com
 theme.echovisuals.com
 themepicker.com
 thepowerstones.com
@@ -36087,6 +36094,7 @@ track.emerse.com
 track.emeza.ch
 track.emeza.com
 tracker-00.qvb.qcloud.com
+tracker.3dissue.com
 tracker.520call.me
 tracker-aa.pafbetscore.lv
 tracker-aa.paf.es
@@ -36650,6 +36658,7 @@ tracking.ntl.no
 tracking.nymphomaneladies.de
 tracking.ocr.ca
 tracking.oe24.at
+tracking.offerista.com
 tracking.ohiohealth.com
 tracking.oldnational.com
 tracking.olx-st.com
@@ -38651,6 +38660,7 @@ tr.zojh.espmp-aluk.net
 t-s.actemra.com
 t-s.activase.com
 t-s.allergicasthma.com
+ts-analysis.shoalter.com
 tsa.taxslayer.com
 t-s.avastin.com
 t-s.avastin-hcp.com
@@ -38910,6 +38920,7 @@ ucmetrics.unicreditgroup.eu
 ucmetrics.unicredit.it
 ucounter.ucoz.net
 ucppeo.silux.hr
+uct.service.usercentrics.eu
 uc.xddi.ru
 udblog.huya.com
 udgrbq.malwarebytes.com
@@ -508243,7 +508254,6 @@ datawrapper.de
 dazeads1.online
 dazedengage.com
 dealer.com
-decenthat.com
 dedicated.domains
 deema.agency
 demand.supply
@@ -520426,7 +520436,6 @@ pgteu4-powerpoint-telemetry-vip.officeapps.live.com
 phluant.com
 phone.igexin.com
 photorank.me
-physicalblueberry.com
 picanalysis.vivo.com.cn
 pictela.net
 piksel.com
@@ -520760,7 +520769,6 @@ smetrics.centerwellpharmacy.com
 smetrics.centerwellprimarycare.com
 smetrics.convivacarecenters.com
 smetrics.copart.com
-smetrics.eiu.com
 smetrics.go365.com
 smetrics.investec.com
 smetrics.jimmobile.be
