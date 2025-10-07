@@ -4532,6 +4532,7 @@ ad-platform.jmty.jp
 adppartner.solutions.adpinfo.com
 adpromo.peppynet.com
 ad.rejichoice.jp
+adrsbl.io
 adrtx.net
 ads-collector.luizalabs.com
 adscore.com
@@ -4840,6 +4841,7 @@ aliasanvil.com
 alias.cloud-marketing.dimensiondata.com
 alibabapizza.openapp.link
 alicat.actonservice.com
+a.lifehacker.ru
 alikeaddition.com
 alinks.outcomes4me.com
 a.linkz.ai
@@ -4988,6 +4990,7 @@ analytic.capitalgroup.com
 analyticcdn.globalmailer.com
 analyticcdn.wlmediahub.com
 analytic.cibc.com
+analytic-client.adult-chess.com
 analytic-client.blitzmightyparty.com
 analytic-client.chickgoddess.com
 analytic-client.panowars.com
@@ -8853,6 +8856,7 @@ collector.betway.be
 collector.betway.com
 collector.cint.com
 collector.clareity.net
+collector.dgnet.ltd.uk
 collector-direct.xhamster.com
 collector.ex.co
 collector.fiverr.com
@@ -8914,6 +8918,7 @@ commanslabdpp.carte-gr.total.fr
 commanslabdspace.carte-gr.total.fr
 commerce.bing.com
 commerce.edc.ca
+commercial-analytics-collector.news.co.uk
 commercial.davey.com
 commercial.equifax.com
 commercial.inform.equifax.com
@@ -11293,6 +11298,7 @@ domorewithless.adp.ca
 domself.de
 d.omsnative.de
 donjigrad.viessmann.rs
+do-not-tracker.org
 dopljl.noleggiosemplice.it
 doppler-beacon.cbsivideo.com
 doppler-client-events.cbsivideo.com
@@ -11772,6 +11778,7 @@ edge.truist.com
 edge.truistmomentum.com
 edge.truistsecurities.com
 edge.wnetwork.com
+ediemidnightzombies.com
 ed.large.be
 ed.large.nl
 edm.healthroundtable.org
@@ -12933,6 +12940,7 @@ everesttech.net
 evergage1.actonservice.com
 eversource.actonservice.com
 evhvza.sodimac.com.br
+eviltracker.net
 e.viously.com
 evkjai.grandado.com
 ev.moneymade.io
@@ -13734,6 +13742,7 @@ ga.groc.press
 gagysn.floward.com
 gahhfg.bobo.com.br
 gak.webtoons.com
+galileotelemetry.tencent.com
 gallerysouvlakeri.openapp.link
 galop.leferacheval-saintcloud.com
 gameplanfinancial.actonservice.com
@@ -23485,6 +23494,7 @@ mxsvjc.hackers.ac
 my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com
 mya.actonservice.com
 myakiu.trendhim.ch
+myangular.life
 myapp.branch.rocks
 my.bake-club.com
 mybjjg.vlan.be
@@ -24996,6 +25006,7 @@ phlebotomyexam.quantresear.ch
 phoenix-content.cresa.com
 phoenix.thexlife.co
 phonecup.com
+phoneresult.com
 phonetrack.hukumkaikka.in
 photography.hursey.com
 photohints.com
@@ -35407,6 +35418,7 @@ test.pooler.io
 testreferral.upay.lk
 test-share.glorify-app.com
 test.shigoto-web.com
+test.showvid.ws
 test.siriusdecisions.com
 test.smrtp.link
 testsocial.eduthrill.com
@@ -36238,6 +36250,7 @@ tracker-server.high-cdn.com
 tracker.services.vaix.ai
 tracker.shanon-services.com
 tracker.shopclues.com
+trackersimulator.org
 tracker.smartframe.io
 tracker.smartseminar.jp
 tracker.softcube.com
@@ -434249,7 +434262,6 @@ wvt02gaaatoshal6.everesttech.net
 x.everesttech.net
 x22pixel.everesttech.net
 ync-tm.everesttech.net
-eviltracker.net
 staging.eviltracker.net
 www.eviltracker.net
 22grenco-science.evyy.net
@@ -467723,7 +467735,6 @@ server.dn888.org
 ww1.server.dn888.org
 ww1.dn888.org
 www.dn888.org
-do-not-tracker.org
 staging.do-not-tracker.org
 www.do-not-tracker.org
 documentpro.org
@@ -480299,7 +480310,6 @@ ww25.tracerout.org
 ww3.tracerout.org
 ww38.tracerout.org
 www.tracerout.org
-trackersimulator.org
 dnt-request-cookies-test.trackersimulator.org
 dnt-test.trackersimulator.org
 staging.trackersimulator.org
