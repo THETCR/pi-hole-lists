@@ -5042,6 +5042,7 @@ analytics.amakings.com
 analytics.americanfunds.com
 analytics.amig.com
 analytics.andrewsmith.com.au
+analytics.animexx.de
 analytics-api.gemcommerce.com
 analytics.api.justeattakeaway.com
 analytics-api.klickly.com
@@ -5558,6 +5559,7 @@ analytics.verizon.com
 analytics.verizonwireless.com
 analytics.vgtimes.com
 analytics.villagehouse.jp
+analytics.vinovo.si
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
@@ -8826,6 +8828,7 @@ cnpxwl.cheapcaribbean.com
 cnsecurity.actonservice.com
 cns-service.actonservice.com
 cnstats.cdev.eu
+cnstrc.com
 cnt.3dmy.net
 cntccc.publicrec.com
 cnt.hd21.com
@@ -12768,6 +12771,7 @@ estadonline.publiguias.cl
 estore.biscoind.com
 eswpwi.xlmoto.pl
 e.synchronybank.com
+eta.animenewsnetwork.com
 etc.lxhausys.com
 et.educationdynamics.com
 etgaad.smartphoto.be
@@ -15475,6 +15479,7 @@ iazwzp.lyst.com
 ibamolecular.actonservice.com
 ibbmfq.decameron.com
 ibbmly.moneymetals.com
+ibclick.stream
 ibf.smrtp.link
 ibkups.rci.com
 i.blinds.ca
@@ -28618,6 +28623,7 @@ sharedev.passportpower.app
 share-dev.perchwell.com
 shared.jodel.com
 share.drinki.com
+sharedswap.com
 share.dunzo.in
 share.dusk.app
 share.eleph.app
@@ -28718,6 +28724,7 @@ shgcdn3.com
 shhoix0fuonj0hz6.net.fidor.de
 shinypond.com
 shipsmarter.idrivelogistics.com
+shirtseasons.com
 shirtsidewalk.com
 shiveringspot.com
 shiverscissors.com
@@ -28895,6 +28902,7 @@ skosgrill.openapp.link
 sk-sanasport.m-shop.me
 sk-topgal.m-shop.me
 skullmagnets.com
+skullteeth.com
 skxbbj.clasic.jp
 skylightdata.com
 slackb.com
@@ -32573,6 +32581,7 @@ sqmazf.workamajig.com
 sqripu.selsey.pl
 sqs.quoka.de
 sqtivj.vidaxl.hr
+squadtee.net
 squalidscrew.com
 squarecamel.com
 squeakzinc.com
@@ -510022,7 +510031,6 @@ hyros.com
 hzr0dm28m17c.com
 i18n-pglstatp.com
 ib-ibi.com
-ibclick.stream
 ibillboard.com
 iclickcdn.com
 id.aftenbladet.no
